@@ -29,7 +29,7 @@ Andalucía;Almería;Bentarique;01;04;028;34010404028;205;5;0;184
 Andalucía;Almería;Berja;01;04;029;34010404029;9190;89;76;5824
 Andalucía;Almería;Canjáyar;01;04;030;34010404030;985;12;4;755
 Andalucía;Almería;Cantoria;01;04;031;34010404031;2428;30;20;1965
-Andalucía;Almería;Carboneras;01;04;032;34010404032;5974;73;39;3592
+Andalucía;Almería;Carboneras;01;04;032;34010404032;5974;99;48;4562
 Andalucía;Almería;Castro de Filabres;01;04;033;34010404033;117;1;0;95
 Andalucía;Almería;Cóbdar;01;04;034;34010404034;188;1;0;167
 Andalucía;Almería;Cuevas del Almanzora;01;04;035;34010404035;8781;87;49;6231
@@ -599,7 +599,7 @@ Andalucía;Málaga;Atajate;01;29;021;34012929021;169;12;3;130
 Andalucía;Málaga;Benadalid;01;29;022;34012929022;189;7;1;141
 Andalucía;Málaga;Benahavís;01;29;023;34012929023;3035;24;8;1650
 Andalucía;Málaga;Benalauría;01;29;024;34012929024;383;5;2;332
-Andalucía;Málaga;Benalmádena;01;29;025;34012929025;46423;235;293;24077
+Andalucía;Málaga;Benalmádena;01;29;025;34012929025;46423;241;304;24402
 Andalucía;Málaga;Benamargosa;01;29;026;34012929026;1038;20;15;800
 Andalucía;Málaga;Benamocarra;01;29;027;34012929027;2356;33;8;1966
 Andalucía;Málaga;Benaoján;01;29;028;34012929028;1198;18;6;984
@@ -643,7 +643,7 @@ Andalucía;Málaga;Júzcar;01;29;065;34012929065;217;5;1;195
 Andalucía;Málaga;Macharaviaya;01;29;066;34012929066;406;4;1;312
 Andalucía;Málaga;Málaga;01;29;067;34012929067;437199;2204;2633;241289
 Andalucía;Málaga;Manilva;01;29;068;34012929068;9338;148;75;5830
-Andalucía;Málaga;Marbella;01;29;069;34012929069;93591;614;538;48333
+Andalucía;Málaga;Marbella;01;29;069;34012929069;93591;619;541;48664
 Andalucía;Málaga;Mijas;01;29;070;34012929070;49967;334;272;25882
 Andalucía;Málaga;Moclinejo;01;29;071;34012929071;1008;17;13;910
 Andalucía;Málaga;Mollina;01;29;072;34012929072;3628;64;29;2674
@@ -1521,73 +1521,73 @@ Canarias;Las Palmas;La Aldea de San Nicolás;05;35;020;34053535020;6063;71;38;46
 Canarias;Las Palmas;Antigua;05;35;003;34053535003;7413;102;43;4481
 Canarias;Las Palmas;Arrecife;05;35;004;34053535004;43697;249;382;17669
 Canarias;Las Palmas;Artenara;05;35;005;34053535005;985;11;13;801
-Canarias;Las Palmas;Arucas;05;35;006;34053535006;32291;452;392;18257
+Canarias;Las Palmas;Arucas;05;35;006;34053535006;32291;470;405;19057
 Canarias;Las Palmas;Betancuria;05;35;007;34053535007;645;2;3;553
-Canarias;Las Palmas;Firgas;05;35;008;34053535008;6560;82;58;4101
+Canarias;Las Palmas;Firgas;05;35;008;34053535008;6560;96;64;4524
 Canarias;Las Palmas;Gáldar;05;35;009;34053535009;20810;154;105;14417
 Canarias;Las Palmas;Haría;05;35;010;34053535010;4284;42;20;2834
 Canarias;Las Palmas;Ingenio;05;35;011;34053535011;25797;287;260;15042
 Canarias;Las Palmas;Mogán;05;35;012;34053535012;11991;66;45;7306
 Canarias;Las Palmas;Moya;05;35;013;34053535013;6667;97;96;4632
-Canarias;Las Palmas;La Oliva;05;35;014;34053535014;14648;168;111;5733
+Canarias;Las Palmas;La Oliva;05;35;014;34053535014;14648;200;132;7301
 Canarias;Las Palmas;Pájara;05;35;015;34053535015;12742;165;68;6538
-Canarias;Las Palmas;Las Palmas de Gran Canaria;05;35;016;34053535016;305421;1996;2382;146663
-Canarias;Las Palmas;Puerto del Rosario;05;35;017;34053535017;29688;387;215;14484
-Canarias;Las Palmas;San Bartolomé;05;35;018;34053535018;14061;93;125;7288
-Canarias;Las Palmas;San Bartolomé de Tirajana;05;35;019;34053535019;35540;200;190;19775
+Canarias;Las Palmas;Las Palmas de Gran Canaria;05;35;016;34053535016;305421;2134;2493;154272
+Canarias;Las Palmas;Puerto del Rosario;05;35;017;34053535017;29688;441;234;16057
+Canarias;Las Palmas;San Bartolomé;05;35;018;34053535018;14061;100;137;7705
+Canarias;Las Palmas;San Bartolomé de Tirajana;05;35;019;34053535019;35540;205;192;20191
 Canarias;Las Palmas;Santa Brígida;05;35;021;34053535021;15410;140;163;9382
 Canarias;Las Palmas;Santa Lucía de Tirajana;05;35;022;34053535022;54796;319;377;27671
 Canarias;Las Palmas;Santa María de Guía de Gran Canaria;05;35;023;34053535023;11816;125;85;8393
 Canarias;Las Palmas;Teguise;05;35;024;34053535024;16128;138;162;9005
 Canarias;Las Palmas;Tejeda;05;35;025;34053535025;1697;21;23;1357
-Canarias;Las Palmas;Telde;05;35;026;34053535026;85664;634;705;42915
+Canarias;Las Palmas;Telde;05;35;026;34053535026;85664;686;739;46065
 Canarias;Las Palmas;Teror;05;35;027;34053535027;10902;116;73;7408
-Canarias;Las Palmas;Tías;05;35;028;34053535028;11515;74;86;5566
+Canarias;Las Palmas;Tías;05;35;028;34053535028;11515;77;89;5888
 Canarias;Las Palmas;Tinajo;05;35;029;34053535029;4883;26;51;3188
 Canarias;Las Palmas;Tuineje;05;35;030;34053535030;11407;193;93;6620
 Canarias;Las Palmas;Valleseco;05;35;032;34053535032;3316;40;42;2508
 Canarias;Las Palmas;Valsequillo de Gran Canaria;05;35;031;34053535031;7869;41;47;4243
 Canarias;Las Palmas;Vega de San Mateo;05;35;033;34053535033;6616;67;26;4646
-Canarias;Las Palmas;Yaiza;05;35;034;34053535034;9176;53;31;3876
+Canarias;Las Palmas;Yaiza;05;35;034;34053535034;9176;57;38;4711
 Canarias;Santa Cruz de Tenerife;Adeje;05;38;001;34053838001;25811;120;91;9005
-Canarias;Santa Cruz de Tenerife;Agulo;05;38;002;34053838002;988;16;5;476
+Canarias;Santa Cruz de Tenerife;Agulo;05;38;002;34053838002;988;18;6;770
 Canarias;Santa Cruz de Tenerife;Alajeró;05;38;003;34053838003;1672;19;9;1329
 Canarias;Santa Cruz de Tenerife;Arafo;05;38;004;34053838004;4693;52;44;3152
 Canarias;Santa Cruz de Tenerife;Arico;05;38;005;34053838005;6641;46;54;4090
-Canarias;Santa Cruz de Tenerife;Arona;05;38;006;34053838006;54499;352;285;19681
+Canarias;Santa Cruz de Tenerife;Arona;05;38;006;34053838006;0;356;294;20305
 Canarias;Santa Cruz de Tenerife;Barlovento;05;38;007;34053838007;1650;28;10;1294
-Canarias;Santa Cruz de Tenerife;Breña Alta;05;38;008;34053838008;5896;44;31;3362
+Canarias;Santa Cruz de Tenerife;Breña Alta;05;38;008;34053838008;5896;52;35;4219
 Canarias;Santa Cruz de Tenerife;Breña Baja;05;38;009;34053838009;4622;55;48;3066
 Canarias;Santa Cruz de Tenerife;Buenavista del Norte;05;38;010;34053838010;3952;55;37;2913
-Canarias;Santa Cruz de Tenerife;Candelaria;05;38;011;34053838011;22699;258;232;12690
+Canarias;Santa Cruz de Tenerife;Candelaria;05;38;011;34053838011;22699;265;237;13144
 Canarias;Santa Cruz de Tenerife;Fasnia;05;38;012;34053838012;2487;21;14;1821
 Canarias;Santa Cruz de Tenerife;Frontera;05;38;013;34053838013;3242;54;25;2255
 Canarias;Santa Cruz de Tenerife;Fuencaliente de la Palma;05;38;014;34053838014;1436;10;14;1172
 Canarias;Santa Cruz de Tenerife;Garachico;05;38;015;34053838015;4060;33;32;2960
 Canarias;Santa Cruz de Tenerife;Garafía;05;38;016;34053838016;1409;21;10;953
-Canarias;Santa Cruz de Tenerife;Granadilla de Abona;05;38;017;34053838017;34990;125;189;16023
+Canarias;Santa Cruz de Tenerife;Granadilla de Abona;05;38;017;34053838017;34990;126;193;16585
 Canarias;Santa Cruz de Tenerife;La Guancha;05;38;018;34053838018;4531;72;34;3225
 Canarias;Santa Cruz de Tenerife;Guía de Isora;05;38;019;34053838019;14874;94;93;8338
 Canarias;Santa Cruz de Tenerife;Güímar;05;38;020;34053838020;17094;154;148;10703
-Canarias;Santa Cruz de Tenerife;Hermigua;05;38;021;34053838021;1644;13;16;598
+Canarias;Santa Cruz de Tenerife;Hermigua;05;38;021;34053838021;1644;35;27;1213
 Canarias;Santa Cruz de Tenerife;Icod de los Vinos;05;38;022;34053838022;19222;125;131;12413
-Canarias;Santa Cruz de Tenerife;Los Llanos de Aridane;05;38;024;34053838024;15470;136;93;9358
+Canarias;Santa Cruz de Tenerife;Los Llanos de Aridane;05;38;024;34053838024;15470;149;95;10081
 Canarias;Santa Cruz de Tenerife;La Matanza de Acentejo;05;38;025;34053838025;7345;63;72;4905
-Canarias;Santa Cruz de Tenerife;La Orotava;05;38;026;34053838026;34435;231;227;20752
+Canarias;Santa Cruz de Tenerife;La Orotava;05;38;026;34053838026;34435;266;262;23359
 Canarias;Santa Cruz de Tenerife;El Paso;05;38;027;34053838027;6100;63;51;4378
 Canarias;Santa Cruz de Tenerife;El Pinar de El Hierro;05;38;901;34053838901;1574;31;13;1100
 Canarias;Santa Cruz de Tenerife;Puerto de la Cruz;05;38;028;34053838028;23317;163;131;13797
 Canarias;Santa Cruz de Tenerife;Puntagorda;05;38;029;34053838029;1611;32;11;1073
 Canarias;Santa Cruz de Tenerife;Puntallana;05;38;030;34053838030;2062;20;26;1552
 Canarias;Santa Cruz de Tenerife;Los Realejos;05;38;031;34053838031;30313;246;226;20743
-Canarias;Santa Cruz de Tenerife;El Rosario;05;38;032;34053838032;14652;82;108;8416
+Canarias;Santa Cruz de Tenerife;El Rosario;05;38;032;34053838032;14652;85;109;8760
 Canarias;Santa Cruz de Tenerife;San Andrés y Sauces;05;38;033;34053838033;3604;34;26;2624
-Canarias;Santa Cruz de Tenerife;San Cristóbal de La Laguna;05;38;023;34053838023;129104;1602;1025;70802
+Canarias;Santa Cruz de Tenerife;San Cristóbal de La Laguna;05;38;023;34053838023;129104;1667;1058;73038
 Canarias;Santa Cruz de Tenerife;San Juan de la Rambla;05;38;034;34053838034;4071;54;46;2547
 Canarias;Santa Cruz de Tenerife;San Miguel de Abona;05;38;035;34053838035;12400;86;87;6397
-Canarias;Santa Cruz de Tenerife;San Sebastián de la Gomera;05;38;036;34053838036;7201;96;43;4821
-Canarias;Santa Cruz de Tenerife;Santa Cruz de la Palma;05;38;037;34053838037;12646;170;84;7472
-Canarias;Santa Cruz de Tenerife;Santa Cruz de Tenerife;05;38;038;34053838038;167532;868;1174;77124
+Canarias;Santa Cruz de Tenerife;San Sebastián de la Gomera;05;38;036;34053838036;7201;103;46;5171
+Canarias;Santa Cruz de Tenerife;Santa Cruz de la Palma;05;38;037;34053838037;12646;180;88;7866
+Canarias;Santa Cruz de Tenerife;Santa Cruz de Tenerife;05;38;038;34053838038;167532;1037;1389;89586
 Canarias;Santa Cruz de Tenerife;Santa Úrsula;05;38;039;34053838039;11812;131;152;7377
 Canarias;Santa Cruz de Tenerife;Santiago del Teide;05;38;040;34053838040;6728;80;36;3692
 Canarias;Santa Cruz de Tenerife;El Sauzal;05;38;041;34053838041;7346;57;66;5100
@@ -1598,7 +1598,7 @@ Canarias;Santa Cruz de Tenerife;Tazacorte;05;38;045;34053838045;3687;28;17;2660
 Canarias;Santa Cruz de Tenerife;Tegueste;05;38;046;34053838046;9442;63;118;6465
 Canarias;Santa Cruz de Tenerife;Tijarafe;05;38;047;34053838047;1926;33;22;1386
 Canarias;Santa Cruz de Tenerife;Valle Gran Rey;05;38;049;34053838049;3305;39;19;2064
-Canarias;Santa Cruz de Tenerife;Vallehermoso;05;38;050;34053838050;2392;34;20;1249
+Canarias;Santa Cruz de Tenerife;Vallehermoso;05;38;050;34053838050;2392;39;24;1697
 Canarias;Santa Cruz de Tenerife;Valverde;05;38;048;34053838048;4062;77;55;2823
 Canarias;Santa Cruz de Tenerife;La Victoria de Acentejo;05;38;051;34053838051;7530;46;41;5634
 Canarias;Santa Cruz de Tenerife;Vilaflor de Chasna;05;38;052;34053838052;1409;21;8;1048
@@ -1806,7 +1806,7 @@ Castilla - La Mancha;Ciudad Real;Almadén;08;13;011;34081313011;4200;64;35;2753
 Castilla - La Mancha;Ciudad Real;Almadenejos;08;13;012;34081313012;370;11;3;292
 Castilla - La Mancha;Ciudad Real;Almagro;08;13;013;34081313013;7079;108;84;5073
 Castilla - La Mancha;Ciudad Real;Almedina;08;13;014;34081313014;451;17;2;383
-Castilla - La Mancha;Ciudad Real;Almodóvar del Campo;08;13;015;34081313015;5030;66;42;3817
+Castilla - La Mancha;Ciudad Real;Almodóvar del Campo;08;13;015;34081313015;0;66;42;3817
 Castilla - La Mancha;Ciudad Real;Almuradiel;08;13;016;34081313016;638;11;2;523
 Castilla - La Mancha;Ciudad Real;Anchuras;08;13;017;34081313017;223;22;16;162
 Castilla - La Mancha;Ciudad Real;Arenales de San Gregorio;08;13;903;34081313903;508;14;10;468
@@ -3493,7 +3493,7 @@ Castilla y León;Palencia;Castrejón de la Peña;07;34;049;34073434049;300;6;7;2
 Castilla y León;Palencia;Castrillo de Don Juan;07;34;050;34073434050;171;3;2;139
 Castilla y León;Palencia;Castrillo de Onielo;07;34;051;34073434051;87;1;1;71
 Castilla y León;Palencia;Castrillo de Villavega;07;34;052;34073434052;169;9;4;128
-Castilla y León;Palencia;Castromocho;07;34;053;34073434053;181;0;0;0
+Castilla y León;Palencia;Castromocho;07;34;053;34073434053;181;8;5;124
 Castilla y León;Palencia;Cervatos de la Cueza;07;34;055;34073434055;240;3;1;215
 Castilla y León;Palencia;Cervera de Pisuerga;07;34;056;34073434056;1878;40;34;1464
 Castilla y León;Palencia;Cevico de la Torre;07;34;057;34073434057;433;7;2;299
@@ -3587,7 +3587,7 @@ Castilla y León;Palencia;Santa Cecilia del Alcor;07;34;167;34073434167;91;3;1;7
 Castilla y León;Palencia;Santa Cruz de Boedo;07;34;168;34073434168;49;0;2;41
 Castilla y León;Palencia;Santervás de la Vega;07;34;169;34073434169;348;5;2;301
 Castilla y León;Palencia;Santibáñez de Ecla;07;34;170;34073434170;44;2;0;31
-Castilla y León;Palencia;Santibáñez de la Peña;07;34;171;34073434171;876;7;4;494
+Castilla y León;Palencia;Santibáñez de la Peña;07;34;171;34073434171;876;7;6;655
 Castilla y León;Palencia;Santoyo;07;34;174;34073434174;176;5;1;145
 Castilla y León;Palencia;La Serna;07;34;175;34073434175;83;8;1;71
 Castilla y León;Palencia;Soto de Cerrato;07;34;177;34073434177;170;3;4;133
@@ -3944,7 +3944,7 @@ Castilla y León;Salamanca;La Tala;07;37;315;34073737315;72;2;0;57
 Castilla y León;Salamanca;Tamames;07;37;316;34073737316;709;12;10;568
 Castilla y León;Salamanca;Tarazona de Guareña;07;37;317;34073737317;262;18;3;237
 Castilla y León;Salamanca;Tardáguila;07;37;318;34073737318;188;5;3;152
-Castilla y León;Salamanca;El Tejado;07;37;319;34073737319;85;0;0;0
+Castilla y León;Salamanca;El Tejado;07;37;319;34073737319;85;5;0;71
 Castilla y León;Salamanca;Tejeda y Segoyuela;07;37;320;34073737320;78;0;0;60
 Castilla y León;Salamanca;Tenebrón;07;37;321;34073737321;134;6;3;113
 Castilla y León;Salamanca;Terradillos;07;37;322;34073737322;2431;24;9;1451
@@ -4074,7 +4074,7 @@ Castilla y León;Segovia;Duruelo;07;40;070;34074040070;138;2;0;111
 Castilla y León;Segovia;Encinas;07;40;071;34074040071;32;1;2;24
 Castilla y León;Segovia;Encinillas;07;40;072;34074040072;235;7;5;174
 Castilla y León;Segovia;Escalona del Prado;07;40;073;34074040073;374;9;9;310
-Castilla y León;Segovia;Escarabajosa de Cabezas;07;40;074;34074040074;234;0;0;0
+Castilla y León;Segovia;Escarabajosa de Cabezas;07;40;074;34074040074;234;6;4;197
 Castilla y León;Segovia;Escobar de Polendos;07;40;075;34074040075;148;3;0;128
 Castilla y León;Segovia;El Espinar;07;40;076;34074040076;7084;105;59;4718
 Castilla y León;Segovia;Espirdo;07;40;077;34074040077;1076;16;22;685
@@ -4244,7 +4244,7 @@ Castilla y León;Soria;Arévalo de la Sierra;07;42;027;34074242027;72;6;5;51
 Castilla y León;Soria;Ausejo de la Sierra;07;42;028;34074242028;84;1;0;71
 Castilla y León;Soria;Baraona;07;42;029;34074242029;126;0;0;99
 Castilla y León;Soria;Barca;07;42;030;34074242030;95;1;6;64
-Castilla y León;Soria;Barcones;07;42;031;34074242031;23;0;0;0
+Castilla y León;Soria;Barcones;07;42;031;34074242031;23;0;0;18
 Castilla y León;Soria;Bayubas de Abajo;07;42;032;34074242032;133;3;4;95
 Castilla y León;Soria;Bayubas de Arriba;07;42;033;34074242033;57;0;1;46
 Castilla y León;Soria;Beratón;07;42;034;34074242034;40;1;0;37
@@ -4277,7 +4277,7 @@ Castilla y León;Soria;Cigudosa;07;42;062;34074242062;14;0;0;8
 Castilla y León;Soria;Cihuela;07;42;063;34074242063;38;0;0;36
 Castilla y León;Soria;Ciria;07;42;064;34074242064;70;3;0;50
 Castilla y León;Soria;Cirujales del Río;07;42;065;34074242065;20;0;0;19
-Castilla y León;Soria;Coscurita;07;42;068;34074242068;68;0;0;0
+Castilla y León;Soria;Coscurita;07;42;068;34074242068;68;0;1;43
 Castilla y León;Soria;Covaleda;07;42;069;34074242069;1434;12;24;1031
 Castilla y León;Soria;Cubilla;07;42;070;34074242070;23;0;0;18
 Castilla y León;Soria;Cubo de la Solana;07;42;071;34074242071;149;2;2;103
@@ -4787,7 +4787,7 @@ Castilla y León;Zamora;Requejo;07;49;174;34074949174;111;4;0;91
 Castilla y León;Zamora;Revellinos;07;49;175;34074949175;200;3;10;135
 Castilla y León;Zamora;Riofrío de Aliste;07;49;176;34074949176;581;10;13;390
 Castilla y León;Zamora;Rionegro del Puente;07;49;177;34074949177;224;2;1;176
-Castilla y León;Zamora;Roales;07;49;178;34074949178;785;0;0;0
+Castilla y León;Zamora;Roales;07;49;178;34074949178;785;9;1;539
 Castilla y León;Zamora;Robleda-Cervantes;07;49;179;34074949179;356;8;3;271
 Castilla y León;Zamora;Roelos de Sayago;07;49;180;34074949180;145;1;4;103
 Castilla y León;Zamora;Rosinos de la Requejada;07;49;181;34074949181;305;8;1;244
@@ -4849,7 +4849,7 @@ Castilla y León;Zamora;Villalba de la Lampreana;07;49;246;34074949246;204;12;5;
 Castilla y León;Zamora;Villalcampo;07;49;247;34074949247;376;7;4;314
 Castilla y León;Zamora;Villalobos;07;49;248;34074949248;153;4;3;99
 Castilla y León;Zamora;Villalonso;07;49;249;34074949249;60;1;0;49
-Castilla y León;Zamora;Villalpando;07;49;250;34074949250;1156;0;0;0
+Castilla y León;Zamora;Villalpando;07;49;250;34074949250;1156;34;15;874
 Castilla y León;Zamora;Villalube;07;49;251;34074949251;147;4;0;119
 Castilla y León;Zamora;Villamayor de Campos;07;49;252;34074949252;306;4;3;262
 Castilla y León;Zamora;Villamor de los Escuderos;07;49;255;34074949255;360;7;7;301
@@ -4873,21 +4873,21 @@ Castilla y León;Zamora;Villaveza del Agua;07;49;271;34074949271;170;4;8;138
 Castilla y León;Zamora;Viñas;07;49;273;34074949273;147;2;1;109
 Castilla y León;Zamora;Zamora;07;49;275;34074949275;49361;229;289;29606
 Cataluña;Barcelona;Abrera;09;08;001;34090808001;9559;48;68;5242
-Cataluña;Barcelona;Aguilar de Segarra;09;08;002;34090808002;0;2;2;146
+Cataluña;Barcelona;Aguilar de Segarra;09;08;002;34090808002;227;2;2;146
 Cataluña;Barcelona;Aiguafreda;09;08;014;34090808014;2071;17;47;1153
-Cataluña;Barcelona;Alella;09;08;003;34090808003;0;67;85;3897
+Cataluña;Barcelona;Alella;09;08;003;34090808003;7384;67;85;3897
 Cataluña;Barcelona;Alpens;09;08;004;34090808004;218;8;28;153
 Cataluña;Barcelona;L'Ametlla del Vallès;09;08;005;34090808005;7114;43;38;3832
 Cataluña;Barcelona;Arenys de Mar;09;08;006;34090808006;12210;141;137;6692
 Cataluña;Barcelona;Arenys de Munt;09;08;007;34090808007;7185;115;118;3806
 Cataluña;Barcelona;Argençola;09;08;008;34090808008;181;4;1;147
-Cataluña;Barcelona;Argentona;09;08;009;34090808009;0;160;120;4917
+Cataluña;Barcelona;Argentona;09;08;009;34090808009;9898;160;120;4917
 Cataluña;Barcelona;Artés;09;08;010;34090808010;4360;93;101;2422
 Cataluña;Barcelona;Avià;09;08;011;34090808011;1768;32;35;1093
 Cataluña;Barcelona;Avinyó;09;08;012;34090808012;1711;32;24;1042
 Cataluña;Barcelona;Avinyonet del Penedès;09;08;013;34090808013;1364;20;19;959
 Cataluña;Barcelona;Badalona;09;08;015;34090808015;156423;770;1153;90805
-Cataluña;Barcelona;Badia del Vallès;09;08;904;34090808904;0;50;68;4953
+Cataluña;Barcelona;Badia del Vallès;09;08;904;34090808904;10251;50;68;4953
 Cataluña;Barcelona;Bagà;09;08;016;34090808016;1811;32;23;1158
 Cataluña;Barcelona;Balenyà;09;08;017;34090808017;2928;21;27;1595
 Cataluña;Barcelona;Balsareny;09;08;018;34090808018;2610;37;46;1506
@@ -4897,24 +4897,24 @@ Cataluña;Barcelona;Begues;09;08;020;34090808020;5522;69;79;3222
 Cataluña;Barcelona;Bellprat;09;08;021;34090808021;66;0;1;41
 Cataluña;Barcelona;Berga;09;08;022;34090808022;12306;123;142;6389
 Cataluña;Barcelona;Bigues i Riells;09;08;023;34090808023;7736;82;69;3879
-Cataluña;Barcelona;Borredà;09;08;024;34090808024;0;25;32;191
+Cataluña;Barcelona;Borredà;09;08;024;34090808024;364;25;32;191
 Cataluña;Barcelona;El Bruc;09;08;025;34090808025;1744;18;40;973
 Cataluña;Barcelona;El Brull;09;08;026;34090808026;213;4;5;110
-Cataluña;Barcelona;Les Cabanyes;09;08;027;34090808027;0;20;10;538
+Cataluña;Barcelona;Les Cabanyes;09;08;027;34090808027;764;20;10;538
 Cataluña;Barcelona;Cabrera d'Anoia;09;08;028;34090808028;1296;5;10;816
 Cataluña;Barcelona;Cabrera de Mar;09;08;029;34090808029;3788;28;40;2338
 Cataluña;Barcelona;Cabrils;09;08;030;34090808030;5575;34;91;2759
 Cataluña;Barcelona;Calaf;09;08;031;34090808031;2313;52;48;1405
 Cataluña;Barcelona;Calders;09;08;034;34090808034;858;16;24;568
-Cataluña;Barcelona;Caldes de Montbui;09;08;033;34090808033;0;127;146;7110
-Cataluña;Barcelona;Caldes d'Estrac;09;08;032;34090808032;0;42;21;1221
+Cataluña;Barcelona;Caldes de Montbui;09;08;033;34090808033;13652;127;146;7110
+Cataluña;Barcelona;Caldes d'Estrac;09;08;032;34090808032;2274;42;21;1221
 Cataluña;Barcelona;Calella;09;08;035;34090808035;13393;77;114;7019
 Cataluña;Barcelona;Calldetenes;09;08;037;34090808037;1987;66;56;1144
 Cataluña;Barcelona;Callús;09;08;038;34090808038;1562;28;49;794
 Cataluña;Barcelona;Calonge de Segarra;09;08;036;34090808036;158;1;6;116
-Cataluña;Barcelona;Campins;09;08;039;34090808039;0;22;6;328
+Cataluña;Barcelona;Campins;09;08;039;34090808039;463;22;6;328
 Cataluña;Barcelona;Canet de Mar;09;08;040;34090808040;11418;111;134;5959
-Cataluña;Barcelona;Canovelles;09;08;041;34090808041;0;87;109;5081
+Cataluña;Barcelona;Canovelles;09;08;041;34090808041;10848;87;109;5081
 Cataluña;Barcelona;Cànoves i Samalús;09;08;042;34090808042;2581;20;19;1560
 Cataluña;Barcelona;Canyelles;09;08;043;34090808043;3908;16;30;2126
 Cataluña;Barcelona;Capellades;09;08;044;34090808044;4213;35;33;2472
@@ -4924,7 +4924,7 @@ Cataluña;Barcelona;Cardona;09;08;047;34090808047;3634;162;71;2206
 Cataluña;Barcelona;Carme;09;08;048;34090808048;628;16;33;320
 Cataluña;Barcelona;Casserres;09;08;049;34090808049;1307;20;18;811
 Cataluña;Barcelona;Castell de l'Areny;09;08;057;34090808057;64;1;5;45
-Cataluña;Barcelona;Castellar de n'Hug;09;08;052;34090808052;0;0;3;124
+Cataluña;Barcelona;Castellar de n'Hug;09;08;052;34090808052;156;0;3;124
 Cataluña;Barcelona;Castellar del Riu;09;08;050;34090808050;134;4;2;80
 Cataluña;Barcelona;Castellar del Vallès;09;08;051;34090808051;19668;146;180;11092
 Cataluña;Barcelona;Castellbell i el Vilar;09;08;053;34090808053;3119;25;40;1718
@@ -4932,7 +4932,7 @@ Cataluña;Barcelona;Castellbisbal;09;08;054;34090808054;9628;74;68;5523
 Cataluña;Barcelona;Castellcir;09;08;055;34090808055;591;21;47;301
 Cataluña;Barcelona;Castelldefels;09;08;056;34090808056;44661;207;321;25344
 Cataluña;Barcelona;Castellet i la Gornal;09;08;058;34090808058;1979;20;24;1015
-Cataluña;Barcelona;Castellfollit de Riubregós;09;08;060;34090808060;0;3;1;112
+Cataluña;Barcelona;Castellfollit de Riubregós;09;08;060;34090808060;137;3;1;112
 Cataluña;Barcelona;Castellfollit del Boix;09;08;059;34090808059;382;7;26;250
 Cataluña;Barcelona;Castellgalí;09;08;061;34090808061;1781;20;12;1060
 Cataluña;Barcelona;Castellnou de Bages;09;08;062;34090808062;1068;11;6;748
@@ -4940,36 +4940,36 @@ Cataluña;Barcelona;Castellolí;09;08;063;34090808063;496;12;66;299
 Cataluña;Barcelona;Castellterçol;09;08;064;34090808064;2075;62;25;1143
 Cataluña;Barcelona;Castellví de la Marca;09;08;065;34090808065;1264;11;24;850
 Cataluña;Barcelona;Castellví de Rosanes;09;08;066;34090808066;1606;10;9;977
-Cataluña;Barcelona;Centelles;09;08;067;34090808067;0;37;56;3581
+Cataluña;Barcelona;Centelles;09;08;067;34090808067;5967;37;56;3581
 Cataluña;Barcelona;Cercs;09;08;268;34090808268;986;7;11;701
-Cataluña;Barcelona;Cerdanyola del Vallès;09;08;266;34090808266;0;266;347;24606
+Cataluña;Barcelona;Cerdanyola del Vallès;09;08;266;34090808266;43683;266;347;24606
 Cataluña;Barcelona;Cervelló;09;08;068;34090808068;7132;56;46;3865
 Cataluña;Barcelona;Collbató;09;08;069;34090808069;3726;30;41;2100
-Cataluña;Barcelona;Collsuspina;09;08;070;34090808070;0;4;7;244
+Cataluña;Barcelona;Collsuspina;09;08;070;34090808070;295;4;7;244
 Cataluña;Barcelona;Copons;09;08;071;34090808071;267;6;18;175
-Cataluña;Barcelona;Corbera de Llobregat;09;08;072;34090808072;0;82;156;5658
-Cataluña;Barcelona;Cornellà de Llobregat;09;08;073;34090808073;0;375;454;32801
-Cataluña;Barcelona;Cubelles;09;08;074;34090808074;0;81;81;6190
+Cataluña;Barcelona;Corbera de Llobregat;09;08;072;34090808072;11429;82;156;5658
+Cataluña;Barcelona;Cornellà de Llobregat;09;08;073;34090808073;63286;375;454;32801
+Cataluña;Barcelona;Cubelles;09;08;074;34090808074;12363;81;81;6190
 Cataluña;Barcelona;Dosrius;09;08;075;34090808075;4542;31;47;2528
 Cataluña;Barcelona;Esparreguera;09;08;076;34090808076;17001;181;152;8481
 Cataluña;Barcelona;Esplugues de Llobregat;09;08;077;34090808077;34144;214;309;18065
 Cataluña;Barcelona;L'Espunyola;09;08;078;34090808078;224;2;7;130
 Cataluña;Barcelona;L'Esquirol;09;08;254;34090808254;1802;31;60;1069
 Cataluña;Barcelona;L'Estany;09;08;079;34090808079;331;17;19;212
-Cataluña;Barcelona;Figaró-Montmany;09;08;134;34090808134;0;12;18;546
+Cataluña;Barcelona;Figaró-Montmany;09;08;134;34090808134;911;12;18;546
 Cataluña;Barcelona;Fígols;09;08;080;34090808080;44;0;1;39
 Cataluña;Barcelona;Fogars de la Selva;09;08;082;34090808082;1344;14;21;728
 Cataluña;Barcelona;Fogars de Montclús;09;08;081;34090808081;370;6;31;174
 Cataluña;Barcelona;Folgueroles;09;08;083;34090808083;1762;70;62;1041
-Cataluña;Barcelona;Fonollosa;09;08;084;34090808084;0;26;61;578
+Cataluña;Barcelona;Fonollosa;09;08;084;34090808084;1267;26;61;578
 Cataluña;Barcelona;Font-rubí;09;08;085;34090808085;1030;6;5;705
 Cataluña;Barcelona;Les Franqueses del Vallès;09;08;086;34090808086;14561;78;91;7297
 Cataluña;Barcelona;Gaià;09;08;090;34090808090;139;1;2;121
 Cataluña;Barcelona;Gallifa;09;08;087;34090808087;146;3;14;106
 Cataluña;Barcelona;La Garriga;09;08;088;34090808088;12734;236;183;7557
 Cataluña;Barcelona;Gavà;09;08;089;34090808089;34576;207;325;16823
-Cataluña;Barcelona;Gelida;09;08;091;34090808091;0;32;47;3404
-Cataluña;Barcelona;Gironella;09;08;092;34090808092;0;82;66;2121
+Cataluña;Barcelona;Gelida;09;08;091;34090808091;5753;32;47;3404
+Cataluña;Barcelona;Gironella;09;08;092;34090808092;3678;82;66;2121
 Cataluña;Barcelona;Gisclareny;09;08;093;34090808093;25;1;1;23
 Cataluña;Barcelona;La Granada;09;08;094;34090808094;1664;20;19;1187
 Cataluña;Barcelona;Granera;09;08;095;34090808095;85;3;1;78
@@ -4978,7 +4978,7 @@ Cataluña;Barcelona;Gualba;09;08;097;34090808097;1224;13;14;800
 Cataluña;Barcelona;Guardiola de Berguedà;09;08;099;34090808099;750;5;1;547
 Cataluña;Barcelona;Gurb;09;08;100;34090808100;2128;24;21;1416
 Cataluña;Barcelona;L'Hospitalet de Llobregat;09;08;101;34090808101;176324;1015;1291;83689
-Cataluña;Barcelona;Els Hostalets de Pierola;09;08;162;34090808162;0;17;20;1492
+Cataluña;Barcelona;Els Hostalets de Pierola;09;08;162;34090808162;2323;17;20;1492
 Cataluña;Barcelona;Igualada;09;08;102;34090808102;29422;195;263;16919
 Cataluña;Barcelona;Jorba;09;08;103;34090808103;669;8;17;473
 Cataluña;Barcelona;La Llacuna;09;08;104;34090808104;706;9;11;546
@@ -4996,14 +4996,14 @@ Cataluña;Barcelona;Martorell;09;08;114;34090808114;19199;89;128;10935
 Cataluña;Barcelona;Martorelles;09;08;115;34090808115;3791;60;57;2141
 Cataluña;Barcelona;Les Masies de Roda;09;08;116;34090808116;565;8;5;417
 Cataluña;Barcelona;Les Masies de Voltregà;09;08;117;34090808117;2556;17;36;1543
-Cataluña;Barcelona;El Masnou;09;08;118;34090808118;0;184;175;10052
+Cataluña;Barcelona;El Masnou;09;08;118;34090808118;18171;184;175;10052
 Cataluña;Barcelona;Masquefa;09;08;119;34090808119;7484;44;57;4199
 Cataluña;Barcelona;Matadepera;09;08;120;34090808120;7554;41;55;4317
 Cataluña;Barcelona;Mataró;09;08;121;34090808121;88880;664;860;45744
 Cataluña;Barcelona;Mediona;09;08;122;34090808122;1933;12;22;1184
 Cataluña;Barcelona;Moià;09;08;138;34090808138;4805;45;40;2742
 Cataluña;Barcelona;Molins de Rei;09;08;123;34090808123;20179;365;219;11566
-Cataluña;Barcelona;Mollet del Vallès;09;08;124;34090808124;0;194;301;18910
+Cataluña;Barcelona;Mollet del Vallès;09;08;124;34090808124;37695;194;301;18910
 Cataluña;Barcelona;Monistrol de Calders;09;08;128;34090808128;643;27;16;424
 Cataluña;Barcelona;Monistrol de Montserrat;09;08;127;34090808127;2269;38;24;1358
 Cataluña;Barcelona;Montcada i Reixac;09;08;125;34090808125;26040;118;207;13515
@@ -5015,48 +5015,48 @@ Cataluña;Barcelona;Montmaneu;09;08;133;34090808133;145;7;0;123
 Cataluña;Barcelona;Montmeló;09;08;135;34090808135;6872;51;77;4147
 Cataluña;Barcelona;Montornès del Vallès;09;08;136;34090808136;11939;87;104;6525
 Cataluña;Barcelona;Montseny;09;08;137;34090808137;303;2;2;248
-Cataluña;Barcelona;Muntanyola;09;08;129;34090808129;0;3;25;347
+Cataluña;Barcelona;Muntanyola;09;08;129;34090808129;568;3;25;347
 Cataluña;Barcelona;Mura;09;08;139;34090808139;187;3;6;167
 Cataluña;Barcelona;Navarcles;09;08;140;34090808140;4856;75;66;2430
 Cataluña;Barcelona;Navàs;09;08;141;34090808141;4632;72;76;2699
 Cataluña;Barcelona;La Nou de Berguedà;09;08;142;34090808142;141;4;4;118
-Cataluña;Barcelona;Òdena;09;08;143;34090808143;0;39;37;1637
+Cataluña;Barcelona;Òdena;09;08;143;34090808143;2806;39;37;1637
 Cataluña;Barcelona;Olèrdola;09;08;145;34090808145;2913;23;33;1802
-Cataluña;Barcelona;Olesa de Bonesvalls;09;08;146;34090808146;0;14;28;892
-Cataluña;Barcelona;Olesa de Montserrat;09;08;147;34090808147;0;170;219;9351
-Cataluña;Barcelona;Olivella;09;08;148;34090808148;0;7;23;1379
+Cataluña;Barcelona;Olesa de Bonesvalls;09;08;146;34090808146;1614;14;28;892
+Cataluña;Barcelona;Olesa de Montserrat;09;08;147;34090808147;17915;170;219;9351
+Cataluña;Barcelona;Olivella;09;08;148;34090808148;2734;7;23;1379
 Cataluña;Barcelona;Olost;09;08;149;34090808149;987;34;28;516
 Cataluña;Barcelona;Olvan;09;08;144;34090808144;744;9;10;490
-Cataluña;Barcelona;Orís;09;08;150;34090808150;0;3;5;190
+Cataluña;Barcelona;Orís;09;08;150;34090808150;285;3;5;190
 Cataluña;Barcelona;Oristà;09;08;151;34090808151;482;7;4;374
-Cataluña;Barcelona;Orpí;09;08;152;34090808152;0;2;9;90
+Cataluña;Barcelona;Orpí;09;08;152;34090808152;133;2;9;90
 Cataluña;Barcelona;Òrrius;09;08;153;34090808153;625;35;11;423
 Cataluña;Barcelona;Pacs del Penedès;09;08;154;34090808154;696;1;9;516
 Cataluña;Barcelona;Palafolls;09;08;155;34090808155;7410;54;69;4010
 Cataluña;Barcelona;Palau-solità i Plegamans;09;08;156;34090808156;11612;94;123;6496
 Cataluña;Barcelona;Pallejà;09;08;157;34090808157;8929;58;66;5589
 Cataluña;Barcelona;La Palma de Cervelló;09;08;905;34090808905;2362;24;53;1534
-Cataluña;Barcelona;El Papiol;09;08;158;34090808158;0;26;52;1924
-Cataluña;Barcelona;Parets del Vallès;09;08;159;34090808159;0;114;106;7854
+Cataluña;Barcelona;El Papiol;09;08;158;34090808158;3257;26;52;1924
+Cataluña;Barcelona;Parets del Vallès;09;08;159;34090808159;14429;114;106;7854
 Cataluña;Barcelona;Perafita;09;08;160;34090808160;335;4;6;270
 Cataluña;Barcelona;Piera;09;08;161;34090808161;12834;113;118;6058
 Cataluña;Barcelona;Pineda de Mar;09;08;163;34090808163;20634;120;143;10771
-Cataluña;Barcelona;El Pla del Penedès;09;08;164;34090808164;0;10;23;650
+Cataluña;Barcelona;El Pla del Penedès;09;08;164;34090808164;955;10;23;650
 Cataluña;Barcelona;La Pobla de Claramunt;09;08;165;34090808165;1756;13;12;1123
-Cataluña;Barcelona;La Pobla de Lillet;09;08;166;34090808166;0;25;16;683
+Cataluña;Barcelona;La Pobla de Lillet;09;08;166;34090808166;932;25;16;683
 Cataluña;Barcelona;Polinyà;09;08;167;34090808167;6179;23;50;3553
 Cataluña;Barcelona;El Pont de Vilomara i Rocafort;09;08;182;34090808182;3140;18;63;1780
 Cataluña;Barcelona;Pontons;09;08;168;34090808168;388;28;7;270
-Cataluña;Barcelona;El Prat de Llobregat;09;08;169;34090808169;0;259;382;25815
-Cataluña;Barcelona;Prats de Lluçanès;09;08;171;34090808171;0;26;35;1420
-Cataluña;Barcelona;Els Prats de Rei;09;08;170;34090808170;0;10;12;317
+Cataluña;Barcelona;El Prat de Llobregat;09;08;169;34090808169;49288;259;382;25815
+Cataluña;Barcelona;Prats de Lluçanès;09;08;171;34090808171;2047;26;35;1420
+Cataluña;Barcelona;Els Prats de Rei;09;08;170;34090808170;457;10;12;317
 Cataluña;Barcelona;Premià de Dalt;09;08;230;34090808230;7876;51;68;4750
 Cataluña;Barcelona;Premià de Mar;09;08;172;34090808172;20928;164;177;10592
-Cataluña;Barcelona;Puigdàlber;09;08;174;34090808174;0;7;10;336
+Cataluña;Barcelona;Puigdàlber;09;08;174;34090808174;425;7;10;336
 Cataluña;Barcelona;Puig-reig;09;08;175;34090808175;3398;66;35;1809
-Cataluña;Barcelona;Pujalt;09;08;176;34090808176;0;4;0;105
-Cataluña;Barcelona;La Quar;09;08;177;34090808177;0;0;0;27
-Cataluña;Barcelona;Rajadell;09;08;178;34090808178;0;6;3;335
+Cataluña;Barcelona;Pujalt;09;08;176;34090808176;167;4;0;105
+Cataluña;Barcelona;La Quar;09;08;177;34090808177;30;0;0;27
+Cataluña;Barcelona;Rajadell;09;08;178;34090808178;465;6;3;335
 Cataluña;Barcelona;Rellinars;09;08;179;34090808179;730;4;6;430
 Cataluña;Barcelona;Ripollet;09;08;180;34090808180;27760;131;210;14652
 Cataluña;Barcelona;La Roca del Vallès;09;08;181;34090808181;8498;106;115;4650
@@ -5068,22 +5068,22 @@ Cataluña;Barcelona;Sabadell;09;08;187;34090808187;156546;1092;1184;78796
 Cataluña;Barcelona;Sagàs;09;08;188;34090808188;117;1;5;81
 Cataluña;Barcelona;Saldes;09;08;190;34090808190;276;29;9;184
 Cataluña;Barcelona;Sallent;09;08;191;34090808191;5396;51;52;3305
-Cataluña;Barcelona;Sant Adrià de Besòs;09;08;194;34090808194;0;127;137;11562
+Cataluña;Barcelona;Sant Adrià de Besòs;09;08;194;34090808194;25744;127;137;11562
 Cataluña;Barcelona;Sant Agustí de Lluçanès;09;08;195;34090808195;86;5;2;54
-Cataluña;Barcelona;Sant Andreu de la Barca;09;08;196;34090808196;0;82;136;11033
-Cataluña;Barcelona;Sant Andreu de Llavaneres;09;08;197;34090808197;0;63;83;4626
+Cataluña;Barcelona;Sant Andreu de la Barca;09;08;196;34090808196;19625;82;136;11033
+Cataluña;Barcelona;Sant Andreu de Llavaneres;09;08;197;34090808197;8545;63;83;4626
 Cataluña;Barcelona;Sant Antoni de Vilamajor;09;08;198;34090808198;5019;62;63;2697
-Cataluña;Barcelona;Sant Bartomeu del Grau;09;08;199;34090808199;0;30;55;315
+Cataluña;Barcelona;Sant Bartomeu del Grau;09;08;199;34090808199;651;30;55;315
 Cataluña;Barcelona;Sant Boi de Llobregat;09;08;200;34090808200;62103;401;516;31411
 Cataluña;Barcelona;Sant Boi de Lluçanès;09;08;201;34090808201;460;4;20;241
 Cataluña;Barcelona;Sant Cebrià de Vallalta;09;08;203;34090808203;2766;13;21;1472
 Cataluña;Barcelona;Sant Celoni;09;08;202;34090808202;13372;94;177;7157
-Cataluña;Barcelona;Sant Climent de Llobregat;09;08;204;34090808204;0;38;59;2056
-Cataluña;Barcelona;Sant Cugat del Vallès;09;08;205;34090808205;0;379;646;38926
+Cataluña;Barcelona;Sant Climent de Llobregat;09;08;204;34090808204;3221;38;59;2056
+Cataluña;Barcelona;Sant Cugat del Vallès;09;08;205;34090808205;66681;379;646;38926
 Cataluña;Barcelona;Sant Cugat Sesgarrigues;09;08;206;34090808206;751;4;13;606
 Cataluña;Barcelona;Sant Esteve de Palautordera;09;08;207;34090808207;2278;26;41;1442
-Cataluña;Barcelona;Sant Esteve Sesrovires;09;08;208;34090808208;0;62;72;3478
-Cataluña;Barcelona;Sant Feliu de Codines;09;08;210;34090808210;0;28;20;2775
+Cataluña;Barcelona;Sant Esteve Sesrovires;09;08;208;34090808208;6160;62;72;3478
+Cataluña;Barcelona;Sant Feliu de Codines;09;08;210;34090808210;4846;28;20;2775
 Cataluña;Barcelona;Sant Feliu de Llobregat;09;08;211;34090808211;34734;317;342;19663
 Cataluña;Barcelona;Sant Feliu Sasserra;09;08;212;34090808212;500;22;5;388
 Cataluña;Barcelona;Sant Fost de Campsentelles;09;08;209;34090808209;7294;54;49;3692
@@ -5091,8 +5091,8 @@ Cataluña;Barcelona;Sant Fruitós de Bages;09;08;213;34090808213;6891;55;57;4059
 Cataluña;Barcelona;Sant Hipòlit de Voltregà;09;08;215;34090808215;2708;27;26;1511
 Cataluña;Barcelona;Sant Iscle de Vallalta;09;08;193;34090808193;1076;12;8;642
 Cataluña;Barcelona;Sant Jaume de Frontanyà;09;08;216;34090808216;24;1;1;23
-Cataluña;Barcelona;Sant Joan de Vilatorrada;09;08;218;34090808218;0;46;72;4576
-Cataluña;Barcelona;Sant Joan Despí;09;08;217;34090808217;0;141;208;15163
+Cataluña;Barcelona;Sant Joan de Vilatorrada;09;08;218;34090808218;8171;46;72;4576
+Cataluña;Barcelona;Sant Joan Despí;09;08;217;34090808217;26018;141;208;15163
 Cataluña;Barcelona;Sant Julià de Cerdanyola;09;08;903;34090808903;211;5;6;162
 Cataluña;Barcelona;Sant Julià de Vilatorta;09;08;220;34090808220;2528;30;36;1673
 Cataluña;Barcelona;Sant Just Desvern;09;08;221;34090808221;14556;80;100;8535
@@ -5100,35 +5100,35 @@ Cataluña;Barcelona;Sant Llorenç d'Hortons;09;08;222;34090808222;1979;37;36;128
 Cataluña;Barcelona;Sant Llorenç Savall;09;08;223;34090808223;2052;37;31;1131
 Cataluña;Barcelona;Sant Martí d'Albars;09;08;225;34090808225;102;6;5;82
 Cataluña;Barcelona;Sant Martí de Centelles;09;08;224;34090808224;928;5;4;484
-Cataluña;Barcelona;Sant Martí de Tous;09;08;226;34090808226;0;10;6;735
-Cataluña;Barcelona;Sant Martí Sarroca;09;08;227;34090808227;0;13;29;1534
+Cataluña;Barcelona;Sant Martí de Tous;09;08;226;34090808226;958;10;6;735
+Cataluña;Barcelona;Sant Martí Sarroca;09;08;227;34090808227;2504;13;29;1534
 Cataluña;Barcelona;Sant Martí Sesgueioles;09;08;228;34090808228;303;11;11;190
 Cataluña;Barcelona;Sant Mateu de Bages;09;08;229;34090808229;515;0;11;398
-Cataluña;Barcelona;Sant Pere de Ribes;09;08;231;34090808231;0;97;118;11383
-Cataluña;Barcelona;Sant Pere de Riudebitlles;09;08;232;34090808232;0;15;42;1119
-Cataluña;Barcelona;Sant Pere de Torelló;09;08;233;34090808233;0;74;62;1300
+Cataluña;Barcelona;Sant Pere de Ribes;09;08;231;34090808231;22095;97;118;11383
+Cataluña;Barcelona;Sant Pere de Riudebitlles;09;08;232;34090808232;1864;15;42;1119
+Cataluña;Barcelona;Sant Pere de Torelló;09;08;233;34090808233;1936;74;62;1300
 Cataluña;Barcelona;Sant Pere de Vilamajor;09;08;234;34090808234;3760;71;72;1825
 Cataluña;Barcelona;Sant Pere Sallavinera;09;08;189;34090808189;124;1;4;103
-Cataluña;Barcelona;Sant Pol de Mar;09;08;235;34090808235;0;51;38;2595
+Cataluña;Barcelona;Sant Pol de Mar;09;08;235;34090808235;4225;51;38;2595
 Cataluña;Barcelona;Sant Quintí de Mediona;09;08;236;34090808236;1670;24;7;1143
 Cataluña;Barcelona;Sant Quirze de Besora;09;08;237;34090808237;1641;28;14;1142
 Cataluña;Barcelona;Sant Quirze del Vallès;09;08;238;34090808238;15331;86;177;8785
 Cataluña;Barcelona;Sant Quirze Safaja;09;08;239;34090808239;529;3;7;343
 Cataluña;Barcelona;Sant Sadurní d'Anoia;09;08;240;34090808240;9631;103;118;5462
 Cataluña;Barcelona;Sant Sadurní d'Osormort;09;08;241;34090808241;77;0;0;61
-Cataluña;Barcelona;Sant Salvador de Guardiola;09;08;098;34090808098;0;28;33;1436
+Cataluña;Barcelona;Sant Salvador de Guardiola;09;08;098;34090808098;2668;28;33;1436
 Cataluña;Barcelona;Sant Vicenç de Castellet;09;08;262;34090808262;7229;42;45;4079
 Cataluña;Barcelona;Sant Vicenç de Montalt;09;08;264;34090808264;4916;45;75;2871
 Cataluña;Barcelona;Sant Vicenç de Torelló;09;08;265;34090808265;1623;27;24;1075
 Cataluña;Barcelona;Sant Vicenç dels Horts;09;08;263;34090808263;21385;144;165;11183
 Cataluña;Barcelona;Santa Cecília de Voltregà;09;08;243;34090808243;149;2;1;95
-Cataluña;Barcelona;Santa Coloma de Cervelló;09;08;244;34090808244;0;52;85;3775
+Cataluña;Barcelona;Santa Coloma de Cervelló;09;08;244;34090808244;6432;52;85;3775
 Cataluña;Barcelona;Santa Coloma de Gramenet;09;08;245;34090808245;76911;317;407;39756
 Cataluña;Barcelona;Santa Eugènia de Berga;09;08;246;34090808246;1728;40;36;1062
-Cataluña;Barcelona;Santa Eulàlia de Riuprimer;09;08;247;34090808247;0;23;44;733
+Cataluña;Barcelona;Santa Eulàlia de Riuprimer;09;08;247;34090808247;1068;23;44;733
 Cataluña;Barcelona;Santa Eulàlia de Ronçana;09;08;248;34090808248;6061;19;25;3169
 Cataluña;Barcelona;Santa Fe del Penedès;09;08;249;34090808249;280;4;1;258
-Cataluña;Barcelona;Santa Margarida de Montbui;09;08;250;34090808250;0;26;26;4310
+Cataluña;Barcelona;Santa Margarida de Montbui;09;08;250;34090808250;7302;26;26;4310
 Cataluña;Barcelona;Santa Margarida i els Monjos;09;08;251;34090808251;5265;33;28;3147
 Cataluña;Barcelona;Santa Maria de Besora;09;08;253;34090808253;135;0;2;108
 Cataluña;Barcelona;Santa Maria de Martorelles;09;08;256;34090808256;704;2;8;473
@@ -5138,22 +5138,22 @@ Cataluña;Barcelona;Santa Maria de Palautordera;09;08;259;34090808259;7423;87;11
 Cataluña;Barcelona;Santa Maria d'Oló;09;08;258;34090808258;868;26;29;551
 Cataluña;Barcelona;Santa Perpètua de Mogoda;09;08;260;34090808260;18851;98;126;9760
 Cataluña;Barcelona;Santa Susanna;09;08;261;34090808261;2672;15;16;1686
-Cataluña;Barcelona;Santpedor;09;08;192;34090808192;0;66;89;3446
+Cataluña;Barcelona;Santpedor;09;08;192;34090808192;5901;66;89;3446
 Cataluña;Barcelona;Sentmenat;09;08;267;34090808267;7127;62;75;4071
 Cataluña;Barcelona;Seva;09;08;269;34090808269;2926;47;42;1738
-Cataluña;Barcelona;Sitges;09;08;270;34090808270;0;149;159;11092
+Cataluña;Barcelona;Sitges;09;08;270;34090808270;20925;149;159;11092
 Cataluña;Barcelona;Sobremunt;09;08;271;34090808271;67;2;0;40
-Cataluña;Barcelona;Sora;09;08;272;34090808272;0;1;2;148
+Cataluña;Barcelona;Sora;09;08;272;34090808272;165;1;2;148
 Cataluña;Barcelona;Subirats;09;08;273;34090808273;2568;33;33;1622
 Cataluña;Barcelona;Súria;09;08;274;34090808274;4598;23;39;2754
 Cataluña;Barcelona;Tagamanent;09;08;276;34090808276;255;0;1;184
 Cataluña;Barcelona;Talamanca;09;08;277;34090808277;186;3;1;153
 Cataluña;Barcelona;Taradell;09;08;278;34090808278;5094;52;79;2992
 Cataluña;Barcelona;Tavèrnoles;09;08;275;34090808275;268;6;6;210
-Cataluña;Barcelona;Tavertet;09;08;280;34090808280;0;0;0;107
+Cataluña;Barcelona;Tavertet;09;08;280;34090808280;113;0;0;107
 Cataluña;Barcelona;Teià;09;08;281;34090808281;5066;71;65;2891
 Cataluña;Barcelona;Terrassa;09;08;279;34090808279;158703;821;1135;80703
-Cataluña;Barcelona;Tiana;09;08;282;34090808282;0;55;73;3966
+Cataluña;Barcelona;Tiana;09;08;282;34090808282;7103;55;73;3966
 Cataluña;Barcelona;Tona;09;08;283;34090808283;6303;54;68;3560
 Cataluña;Barcelona;Tordera;09;08;284;34090808284;13528;94;129;6046
 Cataluña;Barcelona;Torelló;09;08;285;34090808285;10421;179;207;4875
@@ -5161,28 +5161,28 @@ Cataluña;Barcelona;La Torre de Claramunt;09;08;286;34090808286;3188;19;15;1796
 Cataluña;Barcelona;Torrelavit;09;08;287;34090808287;1117;12;15;810
 Cataluña;Barcelona;Torrelles de Foix;09;08;288;34090808288;1845;18;13;1015
 Cataluña;Barcelona;Torrelles de Llobregat;09;08;289;34090808289;4747;38;58;2352
-Cataluña;Barcelona;Ullastrell;09;08;290;34090808290;0;79;86;931
-Cataluña;Barcelona;Vacarisses;09;08;291;34090808291;0;23;50;2868
+Cataluña;Barcelona;Ullastrell;09;08;290;34090808290;1614;79;86;931
+Cataluña;Barcelona;Vacarisses;09;08;291;34090808291;5619;23;50;2868
 Cataluña;Barcelona;Vallbona d'Anoia;09;08;292;34090808292;1092;7;9;812
 Cataluña;Barcelona;Vallcebre;09;08;293;34090808293;249;8;9;145
-Cataluña;Barcelona;Vallgorguina;09;08;294;34090808294;0;37;50;1137
+Cataluña;Barcelona;Vallgorguina;09;08;294;34090808294;2352;37;50;1137
 Cataluña;Barcelona;Vallirana;09;08;295;34090808295;11991;55;108;5966
-Cataluña;Barcelona;Vallromanes;09;08;296;34090808296;0;28;34;1267
-Cataluña;Barcelona;Veciana;09;08;297;34090808297;0;1;3;104
+Cataluña;Barcelona;Vallromanes;09;08;296;34090808296;2024;28;34;1267
+Cataluña;Barcelona;Veciana;09;08;297;34090808297;131;1;3;104
 Cataluña;Barcelona;Vic;09;08;298;34090808298;27588;312;371;13836
 Cataluña;Barcelona;Vilada;09;08;299;34090808299;377;1;7;320
 Cataluña;Barcelona;Viladecans;09;08;301;34090808301;49791;327;532;25600
 Cataluña;Barcelona;Viladecavalls;09;08;300;34090808300;6219;34;61;3602
 Cataluña;Barcelona;Vilafranca del Penedès;09;08;305;34090808305;28287;259;278;15525
-Cataluña;Barcelona;Vilalba Sasserra;09;08;306;34090808306;0;4;7;401
+Cataluña;Barcelona;Vilalba Sasserra;09;08;306;34090808306;554;4;7;401
 Cataluña;Barcelona;Vilanova de Sau;09;08;303;34090808303;268;5;3;219
 Cataluña;Barcelona;Vilanova del Camí;09;08;302;34090808302;9513;51;90;5296
-Cataluña;Barcelona;Vilanova del Vallès;09;08;902;34090808902;0;42;61;2550
+Cataluña;Barcelona;Vilanova del Vallès;09;08;902;34090808902;4226;42;61;2550
 Cataluña;Barcelona;Vilanova i la Geltrú;09;08;307;34090808307;50843;453;491;26854
 Cataluña;Barcelona;Vilassar de Dalt;09;08;214;34090808214;7148;49;97;3586
-Cataluña;Barcelona;Vilassar de Mar;09;08;219;34090808219;0;128;205;8997
+Cataluña;Barcelona;Vilassar de Mar;09;08;219;34090808219;16082;128;205;8997
 Cataluña;Barcelona;Vilobí del Penedès;09;08;304;34090808304;857;9;15;644
-Cataluña;Barcelona;Viver i Serrateix;09;08;308;34090808308;0;1;2;109
+Cataluña;Barcelona;Viver i Serrateix;09;08;308;34090808308;134;1;2;109
 Cataluña;Girona;Agullana;09;17;001;34091717001;663;7;6;482
 Cataluña;Girona;Aiguaviva;09;17;002;34091717002;585;4;8;446
 Cataluña;Girona;Albanyà;09;17;003;34091717003;114;0;0;114
@@ -5856,7 +5856,7 @@ Comunidad de Madrid;Madrid;Campo Real;13;28;033;34132828033;4706;59;50;3233
 Comunidad de Madrid;Madrid;Canencia;13;28;034;34132828034;405;4;6;311
 Comunidad de Madrid;Madrid;Carabaña;13;28;035;34132828035;1623;32;9;1083
 Comunidad de Madrid;Madrid;Casarrubuelos;13;28;036;34132828036;2998;33;52;2052
-Comunidad de Madrid;Madrid;Cenicientos;13;28;037;34132828037;1652;0;0;0
+Comunidad de Madrid;Madrid;Cenicientos;13;28;037;34132828037;1652;27;6;1347
 Comunidad de Madrid;Madrid;Cercedilla;13;28;038;34132828038;5622;202;70;4136
 Comunidad de Madrid;Madrid;Cervera de Buitrago;13;28;039;34132828039;146;4;3;111
 Comunidad de Madrid;Madrid;Chapinería;13;28;051;34132828051;1814;27;20;1384
@@ -5865,7 +5865,7 @@ Comunidad de Madrid;Madrid;Ciempozuelos;13;28;040;34132828040;17777;156;111;1064
 Comunidad de Madrid;Madrid;Cobeña;13;28;041;34132828041;5236;45;63;3857
 Comunidad de Madrid;Madrid;Collado Mediano;13;28;046;34132828046;5341;47;60;3894
 Comunidad de Madrid;Madrid;Collado Villalba;13;28;047;34132828047;45309;353;337;29527
-Comunidad de Madrid;Madrid;Colmenar de Oreja;13;28;043;34132828043;6600;108;55;3182
+Comunidad de Madrid;Madrid;Colmenar de Oreja;13;28;043;34132828043;6600;147;68;4162
 Comunidad de Madrid;Madrid;Colmenar del Arroyo;13;28;042;34132828042;1441;27;17;1072
 Comunidad de Madrid;Madrid;Colmenar Viejo;13;28;045;34132828045;38468;362;390;26654
 Comunidad de Madrid;Madrid;Colmenarejo;13;28;044;34132828044;6977;142;86;4852
@@ -5898,7 +5898,7 @@ Comunidad de Madrid;Madrid;Loeches;13;28;075;34132828075;6468;65;52;4610
 Comunidad de Madrid;Madrid;Lozoya;13;28;076;34132828076;520;10;6;425
 Comunidad de Madrid;Madrid;Lozoyuela-Navas-Sieteiglesias;13;28;901;34132828901;1026;21;14;724
 Comunidad de Madrid;Madrid;Madarcos;13;28;078;34132828078;61;0;0;57
-Comunidad de Madrid;Madrid;Madrid;13;28;079;34132828079;2386293;12322;14060;1648294
+Comunidad de Madrid;Madrid;Madrid;13;28;079;34132828079;2386293;12349;14093;1651025
 Comunidad de Madrid;Madrid;Majadahonda;13;28;080;34132828080;51917;212;410;38729
 Comunidad de Madrid;Madrid;Manzanares el Real;13;28;082;34132828082;6883;76;80;4914
 Comunidad de Madrid;Madrid;Meco;13;28;083;34132828083;10808;106;115;7278
@@ -5907,7 +5907,7 @@ Comunidad de Madrid;Madrid;Miraflores de la Sierra;13;28;085;34132828085;4828;68
 Comunidad de Madrid;Madrid;El Molar;13;28;086;34132828086;6038;67;54;3899
 Comunidad de Madrid;Madrid;Los Molinos;13;28;087;34132828087;3662;59;55;2658
 Comunidad de Madrid;Madrid;Montejo de la Sierra;13;28;088;34132828088;316;4;9;242
-Comunidad de Madrid;Madrid;Moraleja de Enmedio;13;28;089;34132828089;4174;32;25;1857
+Comunidad de Madrid;Madrid;Moraleja de Enmedio;13;28;089;34132828089;4174;50;41;3013
 Comunidad de Madrid;Madrid;Moralzarzal;13;28;090;34132828090;10294;93;135;7754
 Comunidad de Madrid;Madrid;Morata de Tajuña;13;28;091;34132828091;5838;98;41;3990
 Comunidad de Madrid;Madrid;Móstoles;13;28;092;34132828092;155876;1565;1216;103786
@@ -5928,7 +5928,7 @@ Comunidad de Madrid;Madrid;Pelayos de la Presa;13;28;109;34132828109;1896;11;22;
 Comunidad de Madrid;Madrid;Perales de Tajuña;13;28;110;34132828110;2227;37;34;1645
 Comunidad de Madrid;Madrid;Pezuela de las Torres;13;28;111;34132828111;747;7;8;578
 Comunidad de Madrid;Madrid;Pinilla del Valle;13;28;112;34132828112;174;4;1;154
-Comunidad de Madrid;Madrid;Pinto;13;28;113;34132828113;39057;369;318;26819
+Comunidad de Madrid;Madrid;Pinto;13;28;113;34132828113;39057;372;324;27370
 Comunidad de Madrid;Madrid;Piñuécar-Gandullas;13;28;114;34132828114;147;1;3;118
 Comunidad de Madrid;Madrid;Pozuelo de Alarcón;13;28;115;34132828115;65140;252;534;49709
 Comunidad de Madrid;Madrid;Pozuelo del Rey;13;28;116;34132828116;867;18;4;600
@@ -6028,7 +6028,7 @@ Comunidad Valenciana;Alicante;Beniarbeig;10;03;026;34100303026;1583;24;21;1132
 Comunidad Valenciana;Alicante;Beniardá;10;03;027;34100303027;228;0;1;228
 Comunidad Valenciana;Alicante;Beniarrés;10;03;028;34100303028;958;11;5;819
 Comunidad Valenciana;Alicante;Benidoleig;10;03;030;34100303030;721;14;6;550
-Comunidad Valenciana;Alicante;Benidorm;10;03;031;34100303031;43994;229;243;24314
+Comunidad Valenciana;Alicante;Benidorm;10;03;031;34100303031;43994;231;249;24711
 Comunidad Valenciana;Alicante;Benifallim;10;03;032;34100303032;106;0;1;89
 Comunidad Valenciana;Alicante;Benifato;10;03;033;34100303033;117;1;2;88
 Comunidad Valenciana;Alicante;Benigembla;10;03;029;34100303029;324;10;5;240
@@ -6079,7 +6079,7 @@ Comunidad Valenciana;Alicante;Hondón de los Frailes;10;03;078;34100303078;733;1
 Comunidad Valenciana;Alicante;Ibi;10;03;079;34100303079;18540;297;234;12410
 Comunidad Valenciana;Alicante;Jacarilla;10;03;080;34100303080;1495;23;18;1208
 Comunidad Valenciana;Alicante;Jávea/Xàbia;10;03;082;34100303082;14655;139;98;8888
-Comunidad Valenciana;Alicante;Jijona/Xixona;10;03;083;34100303083;5456;55;36;3132
+Comunidad Valenciana;Alicante;Jijona/Xixona;10;03;083;34100303083;5456;60;39;3554
 Comunidad Valenciana;Alicante;Llíber;10;03;085;34100303085;496;9;2;381
 Comunidad Valenciana;Alicante;Lorcha/L'Orxa;10;03;084;34100303084;491;4;6;436
 Comunidad Valenciana;Alicante;Millena;10;03;086;34100303086;189;5;4;162
@@ -6143,9 +6143,9 @@ Comunidad Valenciana;Alicante;Xaló;10;03;081;34100303081;1746;34;11;1218
 Comunidad Valenciana;Castellón;Aín;10;12;002;34101212002;123;2;2;100
 Comunidad Valenciana;Castellón;Albocàsser;10;12;003;34101212003;1003;12;12;815
 Comunidad Valenciana;Castellón;Alcalà de Xivert;10;12;004;34101212004;4984;79;40;3679
-Comunidad Valenciana;Castellón;L'Alcora;10;12;005;34101212005;0;121;93;5754
+Comunidad Valenciana;Castellón;L'Alcora;10;12;005;34101212005;8205;121;93;5754
 Comunidad Valenciana;Castellón;Alcudia de Veo;10;12;006;34101212006;191;2;1;169
-Comunidad Valenciana;Castellón;Alfondeguilla;10;12;007;34101212007;0;4;6;671
+Comunidad Valenciana;Castellón;Alfondeguilla;10;12;007;34101212007;743;4;6;671
 Comunidad Valenciana;Castellón;Algimia de Almonacid;10;12;008;34101212008;231;12;5;201
 Comunidad Valenciana;Castellón;Almassora;10;12;009;34101212009;18947;142;152;11883
 Comunidad Valenciana;Castellón;Almedíjar;10;12;010;34101212010;244;14;3;205
@@ -6157,62 +6157,62 @@ Comunidad Valenciana;Castellón;Ares del Maestrat;10;12;014;34101212014;161;4;0;
 Comunidad Valenciana;Castellón;Argelita;10;12;015;34101212015;132;5;5;117
 Comunidad Valenciana;Castellón;Artana;10;12;016;34101212016;1583;52;27;1366
 Comunidad Valenciana;Castellón;Atzeneta del Maestrat;10;12;001;34101212001;1038;11;9;848
-Comunidad Valenciana;Castellón;Ayódar;10;12;017;34101212017;0;7;0;138
-Comunidad Valenciana;Castellón;Azuébar;10;12;018;34101212018;0;8;2;272
+Comunidad Valenciana;Castellón;Ayódar;10;12;017;34101212017;160;7;0;138
+Comunidad Valenciana;Castellón;Azuébar;10;12;018;34101212018;287;8;2;272
 Comunidad Valenciana;Castellón;Barracas;10;12;020;34101212020;138;1;1;120
 Comunidad Valenciana;Castellón;Bejís;10;12;022;34101212022;339;6;6;278
 Comunidad Valenciana;Castellón;Benafer;10;12;024;34101212024;145;0;1;129
 Comunidad Valenciana;Castellón;Benafigos;10;12;025;34101212025;119;4;0;96
 Comunidad Valenciana;Castellón;Benassal;10;12;026;34101212026;830;11;6;661
-Comunidad Valenciana;Castellón;Benicarló;10;12;027;34101212027;0;143;125;11771
+Comunidad Valenciana;Castellón;Benicarló;10;12;027;34101212027;18284;143;125;11771
 Comunidad Valenciana;Castellón;Benicasim/Benicàssim;10;12;028;34101212028;14545;130;153;10247
 Comunidad Valenciana;Castellón;Benlloc;10;12;029;34101212029;809;23;15;656
 Comunidad Valenciana;Castellón;Betxí;10;12;021;34101212021;4439;68;51;3403
 Comunidad Valenciana;Castellón;Borriana/Burriana;10;12;032;34101212032;24470;222;204;16135
 Comunidad Valenciana;Castellón;Borriol;10;12;031;34101212031;4315;47;32;3088
-Comunidad Valenciana;Castellón;Cabanes;10;12;033;34101212033;0;46;24;1562
+Comunidad Valenciana;Castellón;Cabanes;10;12;033;34101212033;2244;46;24;1562
 Comunidad Valenciana;Castellón;Càlig;10;12;034;34101212034;1491;69;12;1091
 Comunidad Valenciana;Castellón;Canet lo Roig;10;12;036;34101212036;575;11;13;478
-Comunidad Valenciana;Castellón;Castell de Cabres;10;12;037;34101212037;0;0;0;17
+Comunidad Valenciana;Castellón;Castell de Cabres;10;12;037;34101212037;18;0;0;17
 Comunidad Valenciana;Castellón;Castellfort;10;12;038;34101212038;154;3;3;109
-Comunidad Valenciana;Castellón;Castellnovo;10;12;039;34101212039;0;23;10;692
-Comunidad Valenciana;Castellón;Castellón de la Plana/Castelló de la Plana;10;12;040;34101212040;0;813;1049;79922
-Comunidad Valenciana;Castellón;Castillo de Villamalefa;10;12;041;34101212041;0;0;1;89
+Comunidad Valenciana;Castellón;Castellnovo;10;12;039;34101212039;787;23;10;692
+Comunidad Valenciana;Castellón;Castellón de la Plana/Castelló de la Plana;10;12;040;34101212040;122330;813;1049;79922
+Comunidad Valenciana;Castellón;Castillo de Villamalefa;10;12;041;34101212041;107;0;1;89
 Comunidad Valenciana;Castellón;Catí;10;12;042;34101212042;581;31;12;461
-Comunidad Valenciana;Castellón;Caudiel;10;12;043;34101212043;0;12;8;463
+Comunidad Valenciana;Castellón;Caudiel;10;12;043;34101212043;595;12;8;463
 Comunidad Valenciana;Castellón;Cervera del Maestre;10;12;044;34101212044;563;12;6;449
 Comunidad Valenciana;Castellón;Chilches/Xilxes;10;12;053;34101212053;2226;56;14;1781
 Comunidad Valenciana;Castellón;Chodos/Xodos;10;12;055;34101212055;106;2;3;82
 Comunidad Valenciana;Castellón;Chóvar;10;12;056;34101212056;270;8;6;237
 Comunidad Valenciana;Castellón;Cinctorres;10;12;045;34101212045;340;12;5;296
 Comunidad Valenciana;Castellón;Cirat;10;12;046;34101212046;208;6;2;180
-Comunidad Valenciana;Castellón;Cortes de Arenoso;10;12;048;34101212048;0;5;3;208
+Comunidad Valenciana;Castellón;Cortes de Arenoso;10;12;048;34101212048;248;5;3;208
 Comunidad Valenciana;Castellón;Costur;10;12;049;34101212049;440;10;5;378
 Comunidad Valenciana;Castellón;Les Coves de Vinromà;10;12;050;34101212050;1265;53;22;1020
 Comunidad Valenciana;Castellón;Culla;10;12;051;34101212051;429;10;4;307
-Comunidad Valenciana;Castellón;Eslida;10;12;057;34101212057;0;22;9;489
-Comunidad Valenciana;Castellón;Espadilla;10;12;058;34101212058;0;4;2;69
+Comunidad Valenciana;Castellón;Eslida;10;12;057;34101212057;595;22;9;489
+Comunidad Valenciana;Castellón;Espadilla;10;12;058;34101212058;79;4;2;69
 Comunidad Valenciana;Castellón;Fanzara;10;12;059;34101212059;267;5;7;234
 Comunidad Valenciana;Castellón;Figueroles;10;12;060;34101212060;424;5;1;383
 Comunidad Valenciana;Castellón;Forcall;10;12;061;34101212061;361;7;7;271
 Comunidad Valenciana;Castellón;Fuente la Reina;10;12;063;34101212063;50;2;1;39
 Comunidad Valenciana;Castellón;Fuentes de Ayódar;10;12;064;34101212064;94;4;0;86
 Comunidad Valenciana;Castellón;Gaibiel;10;12;065;34101212065;182;6;5;161
-Comunidad Valenciana;Castellón;Geldo;10;12;067;34101212067;0;16;4;433
-Comunidad Valenciana;Castellón;Herbés;10;12;068;34101212068;0;0;0;42
+Comunidad Valenciana;Castellón;Geldo;10;12;067;34101212067;517;16;4;433
+Comunidad Valenciana;Castellón;Herbés;10;12;068;34101212068;53;0;0;42
 Comunidad Valenciana;Castellón;Higueras;10;12;069;34101212069;51;1;2;43
-Comunidad Valenciana;Castellón;La Jana;10;12;070;34101212070;0;8;7;470
+Comunidad Valenciana;Castellón;La Jana;10;12;070;34101212070;531;8;7;470
 Comunidad Valenciana;Castellón;Jérica;10;12;071;34101212071;1378;24;10;1103
-Comunidad Valenciana;Castellón;La Llosa;10;12;074;34101212074;0;18;6;740
-Comunidad Valenciana;Castellón;Llucena/Lucena del Cid;10;12;072;34101212072;0;11;12;975
-Comunidad Valenciana;Castellón;Ludiente;10;12;073;34101212073;0;1;4;126
+Comunidad Valenciana;Castellón;La Llosa;10;12;074;34101212074;802;18;6;740
+Comunidad Valenciana;Castellón;Llucena/Lucena del Cid;10;12;072;34101212072;1129;11;12;975
+Comunidad Valenciana;Castellón;Ludiente;10;12;073;34101212073;138;1;4;126
 Comunidad Valenciana;Castellón;La Mata de Morella;10;12;075;34101212075;121;1;2;89
 Comunidad Valenciana;Castellón;Matet;10;12;076;34101212076;75;0;3;66
-Comunidad Valenciana;Castellón;Moncofa;10;12;077;34101212077;0;41;26;3831
+Comunidad Valenciana;Castellón;Moncofa;10;12;077;34101212077;5487;41;26;3831
 Comunidad Valenciana;Castellón;Montán;10;12;078;34101212078;356;0;8;250
-Comunidad Valenciana;Castellón;Montanejos;10;12;079;34101212079;0;3;0;418
-Comunidad Valenciana;Castellón;Morella;10;12;080;34101212080;0;35;16;1586
-Comunidad Valenciana;Castellón;Navajas;10;12;081;34101212081;0;3;5;568
+Comunidad Valenciana;Castellón;Montanejos;10;12;079;34101212079;478;3;0;418
+Comunidad Valenciana;Castellón;Morella;10;12;080;34101212080;1881;35;16;1586
+Comunidad Valenciana;Castellón;Navajas;10;12;081;34101212081;686;3;5;568
 Comunidad Valenciana;Castellón;Nules;10;12;082;34101212082;9845;87;76;7298
 Comunidad Valenciana;Castellón;Olocau del Rey;10;12;083;34101212083;87;12;0;68
 Comunidad Valenciana;Castellón;Onda;10;12;084;34101212084;18407;156;213;12708
@@ -6221,13 +6221,13 @@ Comunidad Valenciana;Castellón;Palanques;10;12;087;34101212087;32;0;0;24
 Comunidad Valenciana;Castellón;Pavías;10;12;088;34101212088;68;0;3;66
 Comunidad Valenciana;Castellón;Peníscola/Peñíscola;10;12;089;34101212089;5450;67;46;3675
 Comunidad Valenciana;Castellón;Pina de Montalgrao;10;12;090;34101212090;109;3;0;103
-Comunidad Valenciana;Castellón;La Pobla de Benifassà;10;12;093;34101212093;0;9;4;138
+Comunidad Valenciana;Castellón;La Pobla de Benifassà;10;12;093;34101212093;193;9;4;138
 Comunidad Valenciana;Castellón;La Pobla Tornesa;10;12;094;34101212094;980;22;19;695
 Comunidad Valenciana;Castellón;Portell de Morella;10;12;091;34101212091;154;6;13;106
 Comunidad Valenciana;Castellón;Puebla de Arenoso;10;12;092;34101212092;153;1;5;135
 Comunidad Valenciana;Castellón;Ribesalbes;10;12;095;34101212095;948;15;13;801
-Comunidad Valenciana;Castellón;Rossell;10;12;096;34101212096;0;7;12;622
-Comunidad Valenciana;Castellón;Sacañet;10;12;097;34101212097;0;0;1;91
+Comunidad Valenciana;Castellón;Rossell;10;12;096;34101212096;758;7;12;622
+Comunidad Valenciana;Castellón;Sacañet;10;12;097;34101212097;95;0;1;91
 Comunidad Valenciana;Castellón;La Salzadella;10;12;098;34101212098;542;36;12;462
 Comunidad Valenciana;Castellón;San Rafael del Río;10;12;101;34101212101;383;3;2;341
 Comunidad Valenciana;Castellón;Sant Joan de Moró;10;12;902;34101212902;2557;16;9;1867
@@ -6239,34 +6239,34 @@ Comunidad Valenciana;Castellón;La Serratella;10;12;103;34101212103;99;2;1;90
 Comunidad Valenciana;Castellón;Sierra Engarcerán;10;12;105;34101212105;831;6;5;680
 Comunidad Valenciana;Castellón;Soneja;10;12;106;34101212106;1200;49;12;916
 Comunidad Valenciana;Castellón;Sot de Ferrer;10;12;107;34101212107;391;7;6;354
-Comunidad Valenciana;Castellón;Sueras/Suera;10;12;108;34101212108;0;3;6;408
+Comunidad Valenciana;Castellón;Sueras/Suera;10;12;108;34101212108;467;3;6;408
 Comunidad Valenciana;Castellón;Tales;10;12;109;34101212109;684;12;10;532
-Comunidad Valenciana;Castellón;Teresa;10;12;110;34101212110;0;8;4;188
+Comunidad Valenciana;Castellón;Teresa;10;12;110;34101212110;231;8;4;188
 Comunidad Valenciana;Castellón;Tírig;10;12;111;34101212111;357;22;10;298
-Comunidad Valenciana;Castellón;Todolella;10;12;112;34101212112;0;0;2;102
-Comunidad Valenciana;Castellón;Toga;10;12;113;34101212113;0;3;0;83
+Comunidad Valenciana;Castellón;Todolella;10;12;112;34101212112;122;0;2;102
+Comunidad Valenciana;Castellón;Toga;10;12;113;34101212113;97;3;0;83
 Comunidad Valenciana;Castellón;Torás;10;12;114;34101212114;222;12;2;191
-Comunidad Valenciana;Castellón;El Toro;10;12;115;34101212115;0;0;0;195
+Comunidad Valenciana;Castellón;El Toro;10;12;115;34101212115;217;0;0;195
 Comunidad Valenciana;Castellón;Torralba del Pinar;10;12;116;34101212116;69;0;0;67
 Comunidad Valenciana;Castellón;La Torre d'En Besora;10;12;119;34101212119;138;4;2;113
-Comunidad Valenciana;Castellón;La Torre d'en Doménec;10;12;120;34101212120;0;0;4;122
+Comunidad Valenciana;Castellón;La Torre d'en Doménec;10;12;120;34101212120;139;0;4;122
 Comunidad Valenciana;Castellón;Torreblanca;10;12;117;34101212117;3771;89;40;2923
-Comunidad Valenciana;Castellón;Torrechiva;10;12;118;34101212118;0;2;2;64
-Comunidad Valenciana;Castellón;Traiguera;10;12;121;34101212121;0;51;17;958
+Comunidad Valenciana;Castellón;Torrechiva;10;12;118;34101212118;85;2;2;64
+Comunidad Valenciana;Castellón;Traiguera;10;12;121;34101212121;1065;51;17;958
 Comunidad Valenciana;Castellón;Useras/Les Useres;10;12;122;34101212122;815;14;7;701
 Comunidad Valenciana;Castellón;Vall d'Alba;10;12;124;34101212124;2173;30;20;1664
 Comunidad Valenciana;Castellón;Vall de Almonacid;10;12;125;34101212125;248;4;5;204
 Comunidad Valenciana;Castellón;La Vall d'Uixó;10;12;126;34101212126;24441;216;157;17405
 Comunidad Valenciana;Castellón;Vallat;10;12;123;34101212123;64;8;1;58
-Comunidad Valenciana;Castellón;Vallibona;10;12;127;34101212127;0;1;0;47
-Comunidad Valenciana;Castellón;Vilafamés;10;12;128;34101212128;0;28;24;1121
+Comunidad Valenciana;Castellón;Vallibona;10;12;127;34101212127;60;1;0;47
+Comunidad Valenciana;Castellón;Vilafamés;10;12;128;34101212128;1486;28;24;1121
 Comunidad Valenciana;Castellón;Vilanova d'Alcolea;10;12;132;34101212132;515;26;6;418
 Comunidad Valenciana;Castellón;Vilar de Canes;10;12;134;34101212134;143;1;0;115
 Comunidad Valenciana;Castellón;Vila-real;10;12;135;34101212135;37022;269;309;24135
 Comunidad Valenciana;Castellón;La Vilavella;10;12;136;34101212136;2602;49;27;2288
 Comunidad Valenciana;Castellón;Villafranca del Cid/Vilafranca;10;12;129;34101212129;1793;86;54;1324
 Comunidad Valenciana;Castellón;Villahermosa del Río;10;12;130;34101212130;417;10;3;340
-Comunidad Valenciana;Castellón;Villamalur;10;12;131;34101212131;0;2;0;94
+Comunidad Valenciana;Castellón;Villamalur;10;12;131;34101212131;97;2;0;94
 Comunidad Valenciana;Castellón;Villanueva de Viver;10;12;133;34101212133;93;3;1;85
 Comunidad Valenciana;Castellón;Villores;10;12;137;34101212137;49;0;1;44
 Comunidad Valenciana;Castellón;Vinaròs;10;12;138;34101212138;20183;215;224;12509
@@ -6285,7 +6285,7 @@ Comunidad Valenciana;Valencia;Albaida;10;46;006;34104646006;4616;58;23;3731
 Comunidad Valenciana;Valencia;Albal;10;46;007;34104646007;12819;98;91;9010
 Comunidad Valenciana;Valencia;Albalat de la Ribera;10;46;008;34104646008;2588;49;37;1957
 Comunidad Valenciana;Valencia;Albalat dels Sorells;10;46;009;34104646009;3211;43;18;2512
-Comunidad Valenciana;Valencia;Albalat dels Tarongers;10;46;010;34104646010;1096;12;16;415
+Comunidad Valenciana;Valencia;Albalat dels Tarongers;10;46;010;34104646010;0;12;16;415
 Comunidad Valenciana;Valencia;Alberic;10;46;011;34104646011;7620;74;45;5410
 Comunidad Valenciana;Valencia;Alborache;10;46;012;34104646012;1099;14;6;804
 Comunidad Valenciana;Valencia;Alboraia/Alboraya;10;46;013;34104646013;18658;117;133;13684
@@ -6373,7 +6373,7 @@ Comunidad Valenciana;Valencia;Catarroja;10;46;094;34104646094;21182;149;193;1497
 Comunidad Valenciana;Valencia;Caudete de las Fuentes;10;46;095;34104646095;581;13;7;493
 Comunidad Valenciana;Valencia;Cerdà;10;46;096;34104646096;284;4;7;248
 Comunidad Valenciana;Valencia;Chella;10;46;107;34104646107;1971;27;17;1646
-Comunidad Valenciana;Valencia;Chelva;10;46;106;34104646106;1553;9;10;472
+Comunidad Valenciana;Valencia;Chelva;10;46;106;34104646106;1553;24;16;1218
 Comunidad Valenciana;Valencia;Chera;10;46;108;34104646108;422;8;8;343
 Comunidad Valenciana;Valencia;Cheste;10;46;109;34104646109;6596;126;62;4473
 Comunidad Valenciana;Valencia;Chiva;10;46;111;34104646111;12406;107;99;8508
@@ -6541,221 +6541,221 @@ Comunidad Valenciana;Valencia;Xirivella;10;46;110;34104646110;21431;157;138;1429
 Comunidad Valenciana;Valencia;Yátova;10;46;261;34104646261;1819;52;27;1392
 Comunidad Valenciana;Valencia;La Yesa;10;46;262;34104646262;206;4;6;160
 Comunidad Valenciana;Valencia;Zarra;10;46;263;34104646263;285;4;1;255
-Extremadura;Badajoz;Acedera;11;06;001;34110606001;0;11;9;598
+Extremadura;Badajoz;Acedera;11;06;001;34110606001;677;11;9;598
 Extremadura;Badajoz;Aceuchal;11;06;002;34110606002;4291;74;33;3167
-Extremadura;Badajoz;Ahillones;11;06;003;34110606003;0;11;13;629
-Extremadura;Badajoz;Alange;11;06;004;34110606004;0;55;30;1239
-Extremadura;Badajoz;La Albuera;11;06;005;34110606005;0;44;19;1186
+Extremadura;Badajoz;Ahillones;11;06;003;34110606003;717;11;13;629
+Extremadura;Badajoz;Alange;11;06;004;34110606004;1548;55;30;1239
+Extremadura;Badajoz;La Albuera;11;06;005;34110606005;1654;44;19;1186
 Extremadura;Badajoz;Alburquerque;11;06;006;34110606006;4275;216;56;3141
 Extremadura;Badajoz;Alconchel;11;06;007;34110606007;1401;17;10;1151
 Extremadura;Badajoz;Alconera;11;06;008;34110606008;612;14;0;551
 Extremadura;Badajoz;Aljucén;11;06;009;34110606009;229;18;4;196
 Extremadura;Badajoz;Almendral;11;06;010;34110606010;1027;9;7;897
 Extremadura;Badajoz;Almendralejo;11;06;011;34110606011;25066;288;259;16613
-Extremadura;Badajoz;Arroyo de San Serván;11;06;012;34110606012;0;81;48;2507
-Extremadura;Badajoz;Atalaya;11;06;013;34110606013;0;22;11;206
+Extremadura;Badajoz;Arroyo de San Serván;11;06;012;34110606012;3224;81;48;2507
+Extremadura;Badajoz;Atalaya;11;06;013;34110606013;252;22;11;206
 Extremadura;Badajoz;Azuaga;11;06;014;34110606014;6362;74;54;4424
-Extremadura;Badajoz;Badajoz;11;06;015;34110606015;118960;1027;1088;74811
-Extremadura;Badajoz;Barcarrota;11;06;016;34110606016;0;51;18;2498
-Extremadura;Badajoz;Baterno;11;06;017;34110606017;0;7;0;210
-Extremadura;Badajoz;Benquerencia de la Serena;11;06;018;34110606018;0;11;6;585
+Extremadura;Badajoz;Badajoz;11;06;015;34110606015;118960;1030;1094;75176
+Extremadura;Badajoz;Barcarrota;11;06;016;34110606016;2914;51;18;2498
+Extremadura;Badajoz;Baterno;11;06;017;34110606017;225;7;0;210
+Extremadura;Badajoz;Benquerencia de la Serena;11;06;018;34110606018;694;11;6;585
 Extremadura;Badajoz;Berlanga;11;06;019;34110606019;1917;49;29;1508
 Extremadura;Badajoz;Bienvenida;11;06;020;34110606020;1754;47;13;1463
-Extremadura;Badajoz;Bodonal de la Sierra;11;06;021;34110606021;0;26;10;769
+Extremadura;Badajoz;Bodonal de la Sierra;11;06;021;34110606021;860;26;10;769
 Extremadura;Badajoz;Burguillos del Cerro;11;06;022;34110606022;2600;44;16;2141
-Extremadura;Badajoz;Cabeza del Buey;11;06;023;34110606023;0;117;53;2818
+Extremadura;Badajoz;Cabeza del Buey;11;06;023;34110606023;3925;117;53;2818
 Extremadura;Badajoz;Cabeza la Vaca;11;06;024;34110606024;1110;13;4;941
 Extremadura;Badajoz;Calamonte;11;06;025;34110606025;5059;99;48;3990
-Extremadura;Badajoz;Calera de León;11;06;026;34110606026;0;27;3;719
-Extremadura;Badajoz;Calzadilla de los Barros;11;06;027;34110606027;0;12;10;518
-Extremadura;Badajoz;Campanario;11;06;028;34110606028;0;229;39;3573
-Extremadura;Badajoz;Campillo de Llerena;11;06;029;34110606029;0;46;16;980
-Extremadura;Badajoz;Capilla;11;06;030;34110606030;0;4;2;142
-Extremadura;Badajoz;Carmonita;11;06;031;34110606031;0;1;3;383
-Extremadura;Badajoz;El Carrascalejo;11;06;032;34110606032;0;0;0;65
+Extremadura;Badajoz;Calera de León;11;06;026;34110606026;802;27;3;719
+Extremadura;Badajoz;Calzadilla de los Barros;11;06;027;34110606027;616;12;10;518
+Extremadura;Badajoz;Campanario;11;06;028;34110606028;3990;229;39;3573
+Extremadura;Badajoz;Campillo de Llerena;11;06;029;34110606029;1149;46;16;980
+Extremadura;Badajoz;Capilla;11;06;030;34110606030;150;4;2;142
+Extremadura;Badajoz;Carmonita;11;06;031;34110606031;454;1;3;383
+Extremadura;Badajoz;El Carrascalejo;11;06;032;34110606032;73;0;0;65
 Extremadura;Badajoz;Casas de Don Pedro;11;06;033;34110606033;1232;26;8;1083
-Extremadura;Badajoz;Casas de Reina;11;06;034;34110606034;0;6;1;139
-Extremadura;Badajoz;Castilblanco;11;06;035;34110606035;0;23;6;679
+Extremadura;Badajoz;Casas de Reina;11;06;034;34110606034;166;6;1;139
+Extremadura;Badajoz;Castilblanco;11;06;035;34110606035;796;23;6;679
 Extremadura;Badajoz;Castuera;11;06;036;34110606036;4728;140;36;3518
 Extremadura;Badajoz;Cheles;11;06;042;34110606042;968;20;10;845
 Extremadura;Badajoz;La Codosera;11;06;037;34110606037;1691;21;17;1319
 Extremadura;Badajoz;Cordobilla de Lácara;11;06;038;34110606038;738;15;3;626
-Extremadura;Badajoz;La Coronada;11;06;039;34110606039;0;20;9;1481
+Extremadura;Badajoz;La Coronada;11;06;039;34110606039;1778;20;9;1481
 Extremadura;Badajoz;Corte de Peleas;11;06;040;34110606040;982;18;5;780
 Extremadura;Badajoz;Cristina;11;06;041;34110606041;451;40;11;378
 Extremadura;Badajoz;Don Álvaro;11;06;043;34110606043;708;15;10;585
 Extremadura;Badajoz;Don Benito;11;06;044;34110606044;29386;327;306;20333
 Extremadura;Badajoz;Entrín Bajo;11;06;045;34110606045;455;22;7;386
-Extremadura;Badajoz;Esparragalejo;11;06;046;34110606046;0;15;7;1112
+Extremadura;Badajoz;Esparragalejo;11;06;046;34110606046;1275;15;7;1112
 Extremadura;Badajoz;Esparragosa de la Serena;11;06;047;34110606047;804;3;7;711
 Extremadura;Badajoz;Esparragosa de Lares;11;06;048;34110606048;766;17;14;703
 Extremadura;Badajoz;Feria;11;06;049;34110606049;911;44;7;749
-Extremadura;Badajoz;Fregenal de la Sierra;11;06;050;34110606050;0;144;60;3124
+Extremadura;Badajoz;Fregenal de la Sierra;11;06;050;34110606050;3956;144;60;3124
 Extremadura;Badajoz;Fuenlabrada de los Montes;11;06;051;34110606051;1460;23;5;1223
-Extremadura;Badajoz;Fuente de Cantos;11;06;052;34110606052;0;41;15;3103
-Extremadura;Badajoz;Fuente del Arco;11;06;053;34110606053;0;27;11;429
-Extremadura;Badajoz;Fuente del Maestre;11;06;054;34110606054;0;201;70;4134
+Extremadura;Badajoz;Fuente de Cantos;11;06;052;34110606052;3880;41;15;3103
+Extremadura;Badajoz;Fuente del Arco;11;06;053;34110606053;579;27;11;429
+Extremadura;Badajoz;Fuente del Maestre;11;06;054;34110606054;5423;201;70;4134
 Extremadura;Badajoz;Fuentes de León;11;06;055;34110606055;1937;36;20;1566
-Extremadura;Badajoz;Garbayuela;11;06;056;34110606056;0;35;16;372
-Extremadura;Badajoz;Garlitos;11;06;057;34110606057;0;12;0;430
+Extremadura;Badajoz;Garbayuela;11;06;056;34110606056;444;35;16;372
+Extremadura;Badajoz;Garlitos;11;06;057;34110606057;480;12;0;430
 Extremadura;Badajoz;La Garrovilla;11;06;058;34110606058;1944;38;19;1596
-Extremadura;Badajoz;Granja de Torrehermosa;11;06;059;34110606059;0;27;14;1229
-Extremadura;Badajoz;Guadiana del Caudillo;11;06;903;34110606903;0;31;28;1659
-Extremadura;Badajoz;Guareña;11;06;060;34110606060;0;133;69;3949
-Extremadura;Badajoz;La Haba;11;06;061;34110606061;0;63;9;840
-Extremadura;Badajoz;Helechosa de los Montes;11;06;062;34110606062;0;44;1;451
-Extremadura;Badajoz;Herrera del Duque;11;06;063;34110606063;0;142;46;2235
+Extremadura;Badajoz;Granja de Torrehermosa;11;06;059;34110606059;1677;27;14;1229
+Extremadura;Badajoz;Guadiana del Caudillo;11;06;903;34110606903;2035;31;28;1659
+Extremadura;Badajoz;Guareña;11;06;060;34110606060;5542;133;69;3949
+Extremadura;Badajoz;La Haba;11;06;061;34110606061;1065;63;9;840
+Extremadura;Badajoz;Helechosa de los Montes;11;06;062;34110606062;517;44;1;451
+Extremadura;Badajoz;Herrera del Duque;11;06;063;34110606063;2845;142;46;2235
 Extremadura;Badajoz;Higuera de la Serena;11;06;064;34110606064;805;7;0;705
 Extremadura;Badajoz;Higuera de Llerena;11;06;065;34110606065;299;2;4;269
 Extremadura;Badajoz;Higuera de Vargas;11;06;066;34110606066;1633;31;27;1304
-Extremadura;Badajoz;Higuera la Real;11;06;067;34110606067;0;28;19;1400
+Extremadura;Badajoz;Higuera la Real;11;06;067;34110606067;1869;28;19;1400
 Extremadura;Badajoz;Hinojosa del Valle;11;06;068;34110606068;418;12;7;326
-Extremadura;Badajoz;Hornachos;11;06;069;34110606069;0;93;35;2051
-Extremadura;Badajoz;Jerez de los Caballeros;11;06;070;34110606070;0;151;69;5860
-Extremadura;Badajoz;La Lapa;11;06;071;34110606071;0;6;2;223
+Extremadura;Badajoz;Hornachos;11;06;069;34110606069;2913;93;35;2051
+Extremadura;Badajoz;Jerez de los Caballeros;11;06;070;34110606070;7590;151;69;5860
+Extremadura;Badajoz;La Lapa;11;06;071;34110606071;258;6;2;223
 Extremadura;Badajoz;Llera;11;06;073;34110606073;687;62;13;471
 Extremadura;Badajoz;Llerena;11;06;074;34110606074;4640;83;44;3625
-Extremadura;Badajoz;Lobón;11;06;072;34110606072;0;17;20;1813
-Extremadura;Badajoz;Magacela;11;06;075;34110606075;0;29;1;385
-Extremadura;Badajoz;Maguilla;11;06;076;34110606076;0;29;6;671
-Extremadura;Badajoz;Malcocinado;11;06;077;34110606077;0;3;5;261
+Extremadura;Badajoz;Lobón;11;06;072;34110606072;2215;17;20;1813
+Extremadura;Badajoz;Magacela;11;06;075;34110606075;451;29;1;385
+Extremadura;Badajoz;Maguilla;11;06;076;34110606076;802;29;6;671
+Extremadura;Badajoz;Malcocinado;11;06;077;34110606077;302;3;5;261
 Extremadura;Badajoz;Malpartida de la Serena;11;06;078;34110606078;469;8;1;410
-Extremadura;Badajoz;Manchita;11;06;079;34110606079;0;29;31;534
-Extremadura;Badajoz;Medellín;11;06;080;34110606080;0;27;25;1463
-Extremadura;Badajoz;Medina de las Torres;11;06;081;34110606081;0;13;4;828
+Extremadura;Badajoz;Manchita;11;06;079;34110606079;627;29;31;534
+Extremadura;Badajoz;Medellín;11;06;080;34110606080;1852;27;25;1463
+Extremadura;Badajoz;Medina de las Torres;11;06;081;34110606081;1007;13;4;828
 Extremadura;Badajoz;Mengabril;11;06;082;34110606082;407;6;2;353
-Extremadura;Badajoz;Mérida;11;06;083;34110606083;0;489;478;29754
+Extremadura;Badajoz;Mérida;11;06;083;34110606083;46935;489;478;29754
 Extremadura;Badajoz;Mirandilla;11;06;084;34110606084;1039;33;12;860
-Extremadura;Badajoz;Monesterio;11;06;085;34110606085;0;69;23;2700
+Extremadura;Badajoz;Monesterio;11;06;085;34110606085;3447;69;23;2700
 Extremadura;Badajoz;Montemolín;11;06;086;34110606086;1123;13;4;955
 Extremadura;Badajoz;Monterrubio de la Serena;11;06;087;34110606087;1885;102;39;1556
-Extremadura;Badajoz;Montijo;11;06;088;34110606088;0;173;135;8324
-Extremadura;Badajoz;La Morera;11;06;089;34110606089;0;5;3;521
-Extremadura;Badajoz;La Nava de Santiago;11;06;090;34110606090;0;18;12;599
-Extremadura;Badajoz;Navalvillar de Pela;11;06;091;34110606091;0;99;39;2949
-Extremadura;Badajoz;Nogales;11;06;092;34110606092;0;11;3;489
-Extremadura;Badajoz;Oliva de la Frontera;11;06;093;34110606093;0;102;38;3553
-Extremadura;Badajoz;Oliva de Mérida;11;06;094;34110606094;0;10;13;1239
-Extremadura;Badajoz;Olivenza;11;06;095;34110606095;0;288;197;6940
-Extremadura;Badajoz;Orellana de la Sierra;11;06;096;34110606096;0;4;0;225
+Extremadura;Badajoz;Montijo;11;06;088;34110606088;12455;173;135;8324
+Extremadura;Badajoz;La Morera;11;06;089;34110606089;610;5;3;521
+Extremadura;Badajoz;La Nava de Santiago;11;06;090;34110606090;786;18;12;599
+Extremadura;Badajoz;Navalvillar de Pela;11;06;091;34110606091;3616;99;39;2949
+Extremadura;Badajoz;Nogales;11;06;092;34110606092;541;11;3;489
+Extremadura;Badajoz;Oliva de la Frontera;11;06;093;34110606093;4189;102;38;3553
+Extremadura;Badajoz;Oliva de Mérida;11;06;094;34110606094;1399;10;13;1239
+Extremadura;Badajoz;Olivenza;11;06;095;34110606095;9499;288;197;6940
+Extremadura;Badajoz;Orellana de la Sierra;11;06;096;34110606096;245;4;0;225
 Extremadura;Badajoz;Orellana la Vieja;11;06;097;34110606097;2209;89;18;1757
-Extremadura;Badajoz;Palomas;11;06;098;34110606098;0;5;3;456
-Extremadura;Badajoz;La Parra;11;06;099;34110606099;0;13;4;880
+Extremadura;Badajoz;Palomas;11;06;098;34110606098;523;5;3;456
+Extremadura;Badajoz;La Parra;11;06;099;34110606099;1121;13;4;880
 Extremadura;Badajoz;Peñalsordo;11;06;100;34110606100;777;20;13;623
-Extremadura;Badajoz;Peraleda del Zaucejo;11;06;101;34110606101;0;2;1;399
+Extremadura;Badajoz;Peraleda del Zaucejo;11;06;101;34110606101;431;2;1;399
 Extremadura;Badajoz;Puebla de Alcocer;11;06;102;34110606102;989;31;7;880
-Extremadura;Badajoz;Puebla de la Calzada;11;06;103;34110606103;0;42;47;3414
+Extremadura;Badajoz;Puebla de la Calzada;11;06;103;34110606103;4776;42;47;3414
 Extremadura;Badajoz;Puebla de la Reina;11;06;104;34110606104;630;11;4;554
-Extremadura;Badajoz;Puebla de Obando;11;06;107;34110606107;0;9;20;1124
-Extremadura;Badajoz;Puebla de Sancho Pérez;11;06;108;34110606108;0;85;31;1643
-Extremadura;Badajoz;Puebla del Maestre;11;06;105;34110606105;0;8;3;466
+Extremadura;Badajoz;Puebla de Obando;11;06;107;34110606107;1546;9;20;1124
+Extremadura;Badajoz;Puebla de Sancho Pérez;11;06;108;34110606108;2200;85;31;1643
+Extremadura;Badajoz;Puebla del Maestre;11;06;105;34110606105;580;8;3;466
 Extremadura;Badajoz;Puebla del Prior;11;06;106;34110606106;384;19;4;333
 Extremadura;Badajoz;Pueblonuevo del Guadiana;11;06;902;34110606902;1609;2;13;1280
 Extremadura;Badajoz;Quintana de la Serena;11;06;109;34110606109;3784;326;82;3090
 Extremadura;Badajoz;Reina;11;06;110;34110606110;132;17;4;111
-Extremadura;Badajoz;Rena;11;06;111;34110606111;0;1;3;423
-Extremadura;Badajoz;Retamal de Llerena;11;06;112;34110606112;0;5;3;349
-Extremadura;Badajoz;Ribera del Fresno;11;06;113;34110606113;0;69;17;2087
-Extremadura;Badajoz;Risco;11;06;114;34110606114;0;6;0;98
-Extremadura;Badajoz;La Roca de la Sierra;11;06;115;34110606115;0;15;2;1062
-Extremadura;Badajoz;Salvaleón;11;06;116;34110606116;0;27;16;1200
-Extremadura;Badajoz;Salvatierra de los Barros;11;06;117;34110606117;0;81;13;1132
-Extremadura;Badajoz;San Pedro de Mérida;11;06;119;34110606119;0;20;16;617
+Extremadura;Badajoz;Rena;11;06;111;34110606111;487;1;3;423
+Extremadura;Badajoz;Retamal de Llerena;11;06;112;34110606112;378;5;3;349
+Extremadura;Badajoz;Ribera del Fresno;11;06;113;34110606113;2569;69;17;2087
+Extremadura;Badajoz;Risco;11;06;114;34110606114;110;6;0;98
+Extremadura;Badajoz;La Roca de la Sierra;11;06;115;34110606115;1201;15;2;1062
+Extremadura;Badajoz;Salvaleón;11;06;116;34110606116;1436;27;16;1200
+Extremadura;Badajoz;Salvatierra de los Barros;11;06;117;34110606117;1329;81;13;1132
+Extremadura;Badajoz;San Pedro de Mérida;11;06;119;34110606119;705;20;16;617
 Extremadura;Badajoz;San Vicente de Alcántara;11;06;123;34110606123;4403;190;49;3026
 Extremadura;Badajoz;Sancti-Spíritus;11;06;118;34110606118;147;7;8;133
-Extremadura;Badajoz;Santa Amalia;11;06;120;34110606120;0;104;40;2734
-Extremadura;Badajoz;Santa Marta;11;06;121;34110606121;0;78;50;2483
+Extremadura;Badajoz;Santa Amalia;11;06;120;34110606120;3314;104;40;2734
+Extremadura;Badajoz;Santa Marta;11;06;121;34110606121;3227;78;50;2483
 Extremadura;Badajoz;Los Santos de Maimona;11;06;122;34110606122;6562;111;64;4922
 Extremadura;Badajoz;Segura de León;11;06;124;34110606124;1582;130;25;1223
 Extremadura;Badajoz;Siruela;11;06;125;34110606125;1583;43;14;1335
 Extremadura;Badajoz;Solana de los Barros;11;06;126;34110606126;2093;17;9;1681
-Extremadura;Badajoz;Talarrubias;11;06;127;34110606127;0;37;16;2368
-Extremadura;Badajoz;Talavera la Real;11;06;128;34110606128;0;65;48;3313
-Extremadura;Badajoz;Táliga;11;06;129;34110606129;0;13;3;498
+Extremadura;Badajoz;Talarrubias;11;06;127;34110606127;2730;37;16;2368
+Extremadura;Badajoz;Talavera la Real;11;06;128;34110606128;4452;65;48;3313
+Extremadura;Badajoz;Táliga;11;06;129;34110606129;572;13;3;498
 Extremadura;Badajoz;Tamurejo;11;06;130;34110606130;180;13;2;154
-Extremadura;Badajoz;Torre de Miguel Sesmero;11;06;131;34110606131;0;42;47;822
-Extremadura;Badajoz;Torremayor;11;06;132;34110606132;0;18;9;625
-Extremadura;Badajoz;Torremejía;11;06;133;34110606133;0;36;27;1571
-Extremadura;Badajoz;Trasierra;11;06;134;34110606134;0;8;4;462
+Extremadura;Badajoz;Torre de Miguel Sesmero;11;06;131;34110606131;1051;42;47;822
+Extremadura;Badajoz;Torremayor;11;06;132;34110606132;866;18;9;625
+Extremadura;Badajoz;Torremejía;11;06;133;34110606133;1799;36;27;1571
+Extremadura;Badajoz;Trasierra;11;06;134;34110606134;522;8;4;462
 Extremadura;Badajoz;Trujillanos;11;06;135;34110606135;1146;44;10;943
-Extremadura;Badajoz;Usagre;11;06;136;34110606136;0;40;7;1254
-Extremadura;Badajoz;Valdecaballeros;11;06;137;34110606137;0;15;2;779
-Extremadura;Badajoz;Valdelacalzada;11;06;901;34110606901;0;20;13;1738
+Extremadura;Badajoz;Usagre;11;06;136;34110606136;1492;40;7;1254
+Extremadura;Badajoz;Valdecaballeros;11;06;137;34110606137;925;15;2;779
+Extremadura;Badajoz;Valdelacalzada;11;06;901;34110606901;2187;20;13;1738
 Extremadura;Badajoz;Valdetorres;11;06;138;34110606138;1007;17;5;840
-Extremadura;Badajoz;Valencia de las Torres;11;06;139;34110606139;0;10;7;380
+Extremadura;Badajoz;Valencia de las Torres;11;06;139;34110606139;457;10;7;380
 Extremadura;Badajoz;Valencia del Mombuey;11;06;140;34110606140;616;13;4;542
 Extremadura;Badajoz;Valencia del Ventoso;11;06;141;34110606141;1659;76;17;1294
-Extremadura;Badajoz;Valle de la Serena;11;06;146;34110606146;0;83;24;768
-Extremadura;Badajoz;Valle de Matamoros;11;06;147;34110606147;0;5;0;274
-Extremadura;Badajoz;Valle de Santa Ana;11;06;148;34110606148;0;40;10;750
-Extremadura;Badajoz;Valverde de Burguillos;11;06;142;34110606142;0;9;8;202
-Extremadura;Badajoz;Valverde de Leganés;11;06;143;34110606143;0;71;32;2681
+Extremadura;Badajoz;Valle de la Serena;11;06;146;34110606146;995;83;24;768
+Extremadura;Badajoz;Valle de Matamoros;11;06;147;34110606147;296;5;0;274
+Extremadura;Badajoz;Valle de Santa Ana;11;06;148;34110606148;935;40;10;750
+Extremadura;Badajoz;Valverde de Burguillos;11;06;142;34110606142;254;9;8;202
+Extremadura;Badajoz;Valverde de Leganés;11;06;143;34110606143;3463;71;32;2681
 Extremadura;Badajoz;Valverde de Llerena;11;06;144;34110606144;492;21;9;366
-Extremadura;Badajoz;Valverde de Mérida;11;06;145;34110606145;883;37;11;787
+Extremadura;Badajoz;Valverde de Mérida;11;06;145;34110606145;0;37;11;787
 Extremadura;Badajoz;Villafranca de los Barros;11;06;149;34110606149;9979;238;97;7710
 Extremadura;Badajoz;Villagarcía de la Torre;11;06;150;34110606150;754;5;6;672
-Extremadura;Badajoz;Villagonzalo;11;06;151;34110606151;0;40;31;754
-Extremadura;Badajoz;Villalba de los Barros;11;06;152;34110606152;0;8;2;1029
+Extremadura;Badajoz;Villagonzalo;11;06;151;34110606151;1023;40;31;754
+Extremadura;Badajoz;Villalba de los Barros;11;06;152;34110606152;1242;8;2;1029
 Extremadura;Badajoz;Villanueva de la Serena;11;06;153;34110606153;20255;340;222;14157
-Extremadura;Badajoz;Villanueva del Fresno;11;06;154;34110606154;0;68;15;2172
+Extremadura;Badajoz;Villanueva del Fresno;11;06;154;34110606154;2740;68;15;2172
 Extremadura;Badajoz;Villar de Rena;11;06;156;34110606156;1152;55;26;973
-Extremadura;Badajoz;Villar del Rey;11;06;155;34110606155;0;48;30;1427
-Extremadura;Badajoz;Villarta de los Montes;11;06;157;34110606157;0;8;2;337
-Extremadura;Badajoz;Zafra;11;06;158;34110606158;0;236;151;9330
+Extremadura;Badajoz;Villar del Rey;11;06;155;34110606155;1815;48;30;1427
+Extremadura;Badajoz;Villarta de los Montes;11;06;157;34110606157;376;8;2;337
+Extremadura;Badajoz;Zafra;11;06;158;34110606158;13293;236;151;9330
 Extremadura;Badajoz;Zahínos;11;06;159;34110606159;2291;17;9;1577
 Extremadura;Badajoz;Zalamea de la Serena;11;06;160;34110606160;2912;40;18;2369
-Extremadura;Badajoz;La Zarza;11;06;162;34110606162;0;26;19;2231
-Extremadura;Badajoz;Zarza-Capilla;11;06;161;34110606161;0;8;2;222
+Extremadura;Badajoz;La Zarza;11;06;162;34110606162;2811;26;19;2231
+Extremadura;Badajoz;Zarza-Capilla;11;06;161;34110606161;274;8;2;222
 Extremadura;Cáceres;Abadía;11;10;001;34111010001;295;3;3;260
 Extremadura;Cáceres;Abertura;11;10;002;34111010002;349;2;7;325
-Extremadura;Cáceres;Acebo;11;10;003;34111010003;0;0;3;488
+Extremadura;Cáceres;Acebo;11;10;003;34111010003;553;0;3;488
 Extremadura;Cáceres;Acehúche;11;10;004;34111010004;673;52;21;545
-Extremadura;Cáceres;Aceituna;11;10;005;34111010005;0;18;2;409
+Extremadura;Cáceres;Aceituna;11;10;005;34111010005;507;18;2;409
 Extremadura;Cáceres;Ahigal;11;10;006;34111010006;1202;37;7;970
 Extremadura;Cáceres;Alagón del Río;11;10;903;34111010903;795;22;6;626
-Extremadura;Cáceres;Albalá;11;10;007;34111010007;0;28;8;505
+Extremadura;Cáceres;Albalá;11;10;007;34111010007;595;28;8;505
 Extremadura;Cáceres;Alcántara;11;10;008;34111010008;1195;14;13;964
 Extremadura;Cáceres;Alcollarín;11;10;009;34111010009;237;6;0;212
-Extremadura;Cáceres;Alcuéscar;11;10;010;34111010010;0;60;19;1493
+Extremadura;Cáceres;Alcuéscar;11;10;010;34111010010;2116;60;19;1493
 Extremadura;Cáceres;Aldea del Cano;11;10;012;34111010012;545;5;4;468
 Extremadura;Cáceres;La Aldea del Obispo;11;10;013;34111010013;255;4;2;190
-Extremadura;Cáceres;Aldeacentenera;11;10;011;34111010011;0;3;3;470
+Extremadura;Cáceres;Aldeacentenera;11;10;011;34111010011;556;3;3;470
 Extremadura;Cáceres;Aldeanueva de la Vera;11;10;014;34111010014;1764;31;13;1459
-Extremadura;Cáceres;Aldeanueva del Camino;11;10;015;34111010015;0;5;3;511
+Extremadura;Cáceres;Aldeanueva del Camino;11;10;015;34111010015;632;5;3;511
 Extremadura;Cáceres;Aldehuela de Jerte;11;10;016;34111010016;319;5;1;273
 Extremadura;Cáceres;Alía;11;10;017;34111010017;727;11;4;648
-Extremadura;Cáceres;Aliseda;11;10;018;34111010018;0;45;19;1079
+Extremadura;Cáceres;Aliseda;11;10;018;34111010018;1517;45;19;1079
 Extremadura;Cáceres;Almaraz;11;10;019;34111010019;1344;28;17;1090
-Extremadura;Cáceres;Almoharín;11;10;020;34111010020;0;42;13;1276
-Extremadura;Cáceres;Arroyo de la Luz;11;10;021;34111010021;0;75;45;3648
+Extremadura;Cáceres;Almoharín;11;10;020;34111010020;1555;42;13;1276
+Extremadura;Cáceres;Arroyo de la Luz;11;10;021;34111010021;4805;75;45;3648
 Extremadura;Cáceres;Arroyomolinos;11;10;023;34111010023;795;11;4;670
 Extremadura;Cáceres;Arroyomolinos de la Vera;11;10;022;34111010022;391;17;3;342
 Extremadura;Cáceres;Baños de Montemayor;11;10;024;34111010024;640;19;11;476
 Extremadura;Cáceres;Barrado;11;10;025;34111010025;354;19;4;320
-Extremadura;Cáceres;Belvís de Monroy;11;10;026;34111010026;0;26;4;525
-Extremadura;Cáceres;Benquerencia;11;10;027;34111010027;0;0;0;76
-Extremadura;Cáceres;Berrocalejo;11;10;028;34111010028;0;0;0;94
+Extremadura;Cáceres;Belvís de Monroy;11;10;026;34111010026;686;26;4;525
+Extremadura;Cáceres;Benquerencia;11;10;027;34111010027;81;0;0;76
+Extremadura;Cáceres;Berrocalejo;11;10;028;34111010028;107;0;0;94
 Extremadura;Cáceres;Berzocana;11;10;029;34111010029;348;14;5;282
-Extremadura;Cáceres;Bohonal de Ibor;11;10;030;34111010030;0;10;1;342
+Extremadura;Cáceres;Bohonal de Ibor;11;10;030;34111010030;450;10;1;342
 Extremadura;Cáceres;Botija;11;10;031;34111010031;162;4;3;140
 Extremadura;Cáceres;Brozas;11;10;032;34111010032;1517;16;8;1259
 Extremadura;Cáceres;Cabañas del Castillo;11;10;033;34111010033;376;4;5;318
 Extremadura;Cáceres;Cabezabellosa;11;10;034;34111010034;334;2;2;290
-Extremadura;Cáceres;Cabezuela del Valle;11;10;035;34111010035;0;53;17;1378
-Extremadura;Cáceres;Cabrero;11;10;036;34111010036;0;8;1;255
-Extremadura;Cáceres;Cáceres;11;10;037;34111010037;0;771;641;51773
-Extremadura;Cáceres;Cachorrilla;11;10;038;34111010038;0;0;1;65
+Extremadura;Cáceres;Cabezuela del Valle;11;10;035;34111010035;1798;53;17;1378
+Extremadura;Cáceres;Cabrero;11;10;036;34111010036;309;8;1;255
+Extremadura;Cáceres;Cáceres;11;10;037;34111010037;77448;771;641;51773
+Extremadura;Cáceres;Cachorrilla;11;10;038;34111010038;81;0;1;65
 Extremadura;Cáceres;Cadalso;11;10;039;34111010039;395;14;6;311
-Extremadura;Cáceres;Calzadilla;11;10;040;34111010040;0;7;4;370
+Extremadura;Cáceres;Calzadilla;11;10;040;34111010040;421;7;4;370
 Extremadura;Cáceres;Caminomorisco;11;10;041;34111010041;986;43;13;872
-Extremadura;Cáceres;Campillo de Deleitosa;11;10;042;34111010042;0;0;1;66
+Extremadura;Cáceres;Campillo de Deleitosa;11;10;042;34111010042;85;0;1;66
 Extremadura;Cáceres;Campo Lugar;11;10;043;34111010043;727;9;5;639
 Extremadura;Cáceres;Cañamero;11;10;044;34111010044;1385;25;8;1057
-Extremadura;Cáceres;Cañaveral;11;10;045;34111010045;0;42;6;749
+Extremadura;Cáceres;Cañaveral;11;10;045;34111010045;953;42;6;749
 Extremadura;Cáceres;Carbajo;11;10;046;34111010046;164;7;3;131
 Extremadura;Cáceres;Carcaboso;11;10;047;34111010047;929;17;13;805
-Extremadura;Cáceres;Carrascalejo;11;10;048;34111010048;0;11;2;144
-Extremadura;Cáceres;Casar de Cáceres;11;10;049;34111010049;0;66;38;3032
+Extremadura;Cáceres;Carrascalejo;11;10;048;34111010048;208;11;2;144
+Extremadura;Cáceres;Casar de Cáceres;11;10;049;34111010049;3691;66;38;3032
 Extremadura;Cáceres;Casar de Palomero;11;10;050;34111010050;935;9;6;791
 Extremadura;Cáceres;Casares de las Hurdes;11;10;051;34111010051;408;8;0;374
 Extremadura;Cáceres;Casas de Don Antonio;11;10;052;34111010052;175;0;1;149
@@ -6763,181 +6763,181 @@ Extremadura;Cáceres;Casas de Don Gómez;11;10;053;34111010053;277;4;1;254
 Extremadura;Cáceres;Casas de Millán;11;10;056;34111010056;520;7;2;428
 Extremadura;Cáceres;Casas de Miravete;11;10;057;34111010057;107;0;3;93
 Extremadura;Cáceres;Casas del Castañar;11;10;054;34111010054;530;20;9;429
-Extremadura;Cáceres;Casas del Monte;11;10;055;34111010055;0;29;9;528
-Extremadura;Cáceres;Casatejada;11;10;058;34111010058;0;20;13;764
+Extremadura;Cáceres;Casas del Monte;11;10;055;34111010055;667;29;9;528
+Extremadura;Cáceres;Casatejada;11;10;058;34111010058;952;20;13;764
 Extremadura;Cáceres;Casillas de Coria;11;10;059;34111010059;316;4;7;251
 Extremadura;Cáceres;Castañar de Ibor;11;10;060;34111010060;883;25;3;729
-Extremadura;Cáceres;Ceclavín;11;10;061;34111010061;0;28;11;1222
-Extremadura;Cáceres;Cedillo;11;10;062;34111010062;0;6;1;350
+Extremadura;Cáceres;Ceclavín;11;10;061;34111010061;1580;28;11;1222
+Extremadura;Cáceres;Cedillo;11;10;062;34111010062;395;6;1;350
 Extremadura;Cáceres;Cerezo;11;10;063;34111010063;157;2;1;141
-Extremadura;Cáceres;Cilleros;11;10;064;34111010064;0;25;12;1162
-Extremadura;Cáceres;Collado de la Vera;11;10;065;34111010065;0;10;10;188
+Extremadura;Cáceres;Cilleros;11;10;064;34111010064;1369;25;12;1162
+Extremadura;Cáceres;Collado de la Vera;11;10;065;34111010065;235;10;10;188
 Extremadura;Cáceres;Conquista de la Sierra;11;10;066;34111010066;175;0;2;150
 Extremadura;Cáceres;Coria;11;10;067;34111010067;10089;170;106;6836
-Extremadura;Cáceres;Cuacos de Yuste;11;10;068;34111010068;0;26;4;608
+Extremadura;Cáceres;Cuacos de Yuste;11;10;068;34111010068;698;26;4;608
 Extremadura;Cáceres;La Cumbre;11;10;069;34111010069;762;23;11;602
-Extremadura;Cáceres;Deleitosa;11;10;070;34111010070;0;4;4;549
+Extremadura;Cáceres;Deleitosa;11;10;070;34111010070;615;4;4;549
 Extremadura;Cáceres;Descargamaría;11;10;071;34111010071;109;2;0;96
-Extremadura;Cáceres;Eljas;11;10;072;34111010072;0;22;7;601
+Extremadura;Cáceres;Eljas;11;10;072;34111010072;801;22;7;601
 Extremadura;Cáceres;Escurial;11;10;073;34111010073;740;6;3;603
 Extremadura;Cáceres;Fresnedoso de Ibor;11;10;075;34111010075;216;5;3;162
 Extremadura;Cáceres;Galisteo;11;10;076;34111010076;756;32;9;579
-Extremadura;Cáceres;Garciaz;11;10;077;34111010077;0;23;4;512
-Extremadura;Cáceres;Garganta la Olla;11;10;079;34111010079;0;27;8;701
-Extremadura;Cáceres;La Garganta;11;10;078;34111010078;0;17;4;276
-Extremadura;Cáceres;Gargantilla;11;10;080;34111010080;0;6;2;277
-Extremadura;Cáceres;Gargüera;11;10;081;34111010081;0;8;0;146
+Extremadura;Cáceres;Garciaz;11;10;077;34111010077;611;23;4;512
+Extremadura;Cáceres;Garganta la Olla;11;10;079;34111010079;808;27;8;701
+Extremadura;Cáceres;La Garganta;11;10;078;34111010078;345;17;4;276
+Extremadura;Cáceres;Gargantilla;11;10;080;34111010080;337;6;2;277
+Extremadura;Cáceres;Gargüera;11;10;081;34111010081;183;8;0;146
 Extremadura;Cáceres;Garrovillas de Alconétar;11;10;082;34111010082;1714;143;32;1363
 Extremadura;Cáceres;Garvín;11;10;083;34111010083;105;1;2;104
-Extremadura;Cáceres;Gata;11;10;084;34111010084;0;47;21;856
-Extremadura;Cáceres;El Gordo;11;10;085;34111010085;0;2;0;283
-Extremadura;Cáceres;La Granja;11;10;086;34111010086;0;10;1;266
-Extremadura;Cáceres;Guadalupe;11;10;087;34111010087;0;23;10;1219
+Extremadura;Cáceres;Gata;11;10;084;34111010084;1219;47;21;856
+Extremadura;Cáceres;El Gordo;11;10;085;34111010085;336;2;0;283
+Extremadura;Cáceres;La Granja;11;10;086;34111010086;295;10;1;266
+Extremadura;Cáceres;Guadalupe;11;10;087;34111010087;1549;23;10;1219
 Extremadura;Cáceres;Guijo de Coria;11;10;088;34111010088;200;1;1;164
-Extremadura;Cáceres;Guijo de Galisteo;11;10;089;34111010089;0;31;19;1026
+Extremadura;Cáceres;Guijo de Galisteo;11;10;089;34111010089;1324;31;19;1026
 Extremadura;Cáceres;Guijo de Granadilla;11;10;090;34111010090;455;16;5;347
-Extremadura;Cáceres;Guijo de Santa Bárbara;11;10;091;34111010091;0;20;2;271
-Extremadura;Cáceres;Herguijuela;11;10;092;34111010092;0;11;1;231
+Extremadura;Cáceres;Guijo de Santa Bárbara;11;10;091;34111010091;337;20;2;271
+Extremadura;Cáceres;Herguijuela;11;10;092;34111010092;248;11;1;231
 Extremadura;Cáceres;Hernán-Pérez;11;10;093;34111010093;367;18;0;293
 Extremadura;Cáceres;Herrera de Alcántara;11;10;094;34111010094;199;5;6;153
-Extremadura;Cáceres;Herreruela;11;10;095;34111010095;0;3;1;294
+Extremadura;Cáceres;Herreruela;11;10;095;34111010095;316;3;1;294
 Extremadura;Cáceres;Hervás;11;10;096;34111010096;3325;102;50;2418
 Extremadura;Cáceres;Higuera;11;10;097;34111010097;106;2;0;89
-Extremadura;Cáceres;Hinojal;11;10;098;34111010098;0;7;5;323
+Extremadura;Cáceres;Hinojal;11;10;098;34111010098;374;7;5;323
 Extremadura;Cáceres;Holguera;11;10;099;34111010099;522;17;10;417
 Extremadura;Cáceres;Hoyos;11;10;100;34111010100;762;36;5;575
 Extremadura;Cáceres;Huélaga;11;10;101;34111010101;172;3;1;149
-Extremadura;Cáceres;Ibahernando;11;10;102;34111010102;0;6;2;404
-Extremadura;Cáceres;Jaraicejo;11;10;103;34111010103;0;20;10;359
+Extremadura;Cáceres;Ibahernando;11;10;102;34111010102;494;6;2;404
+Extremadura;Cáceres;Jaraicejo;11;10;103;34111010103;413;20;10;359
 Extremadura;Cáceres;Jaraíz de la Vera;11;10;104;34111010104;5022;93;40;3535
-Extremadura;Cáceres;Jarandilla de la Vera;11;10;105;34111010105;0;57;30;1739
-Extremadura;Cáceres;Jarilla;11;10;106;34111010106;0;6;3;107
+Extremadura;Cáceres;Jarandilla de la Vera;11;10;105;34111010105;2416;57;30;1739
+Extremadura;Cáceres;Jarilla;11;10;106;34111010106;130;6;3;107
 Extremadura;Cáceres;Jerte;11;10;107;34111010107;1013;21;14;850
 Extremadura;Cáceres;Ladrillar;11;10;108;34111010108;193;1;0;169
 Extremadura;Cáceres;Logrosán;11;10;109;34111010109;1635;22;19;1257
-Extremadura;Cáceres;Losar de la Vera;11;10;110;34111010110;0;62;25;1671
-Extremadura;Cáceres;Madrigal de la Vera;11;10;111;34111010111;0;24;4;1014
+Extremadura;Cáceres;Losar de la Vera;11;10;110;34111010110;2231;62;25;1671
+Extremadura;Cáceres;Madrigal de la Vera;11;10;111;34111010111;1308;24;4;1014
 Extremadura;Cáceres;Madrigalejo;11;10;112;34111010112;1472;33;20;1209
-Extremadura;Cáceres;Madroñera;11;10;113;34111010113;0;24;13;1617
+Extremadura;Cáceres;Madroñera;11;10;113;34111010113;2085;24;13;1617
 Extremadura;Cáceres;Majadas;11;10;114;34111010114;929;82;30;705
-Extremadura;Cáceres;Malpartida de Cáceres;11;10;115;34111010115;0;84;31;2793
+Extremadura;Cáceres;Malpartida de Cáceres;11;10;115;34111010115;3491;84;31;2793
 Extremadura;Cáceres;Malpartida de Plasencia;11;10;116;34111010116;3791;152;92;2596
-Extremadura;Cáceres;Marchagaz;11;10;117;34111010117;0;3;2;174
+Extremadura;Cáceres;Marchagaz;11;10;117;34111010117;213;3;2;174
 Extremadura;Cáceres;Mata de Alcántara;11;10;118;34111010118;261;2;1;235
-Extremadura;Cáceres;Membrío;11;10;119;34111010119;0;3;4;477
+Extremadura;Cáceres;Membrío;11;10;119;34111010119;536;3;4;477
 Extremadura;Cáceres;Mesas de Ibor;11;10;120;34111010120;144;2;2;112
 Extremadura;Cáceres;Miajadas;11;10;121;34111010121;7759;149;74;5527
-Extremadura;Cáceres;Millanes;11;10;122;34111010122;0;7;10;148
+Extremadura;Cáceres;Millanes;11;10;122;34111010122;198;7;10;148
 Extremadura;Cáceres;Mirabel;11;10;123;34111010123;581;26;5;484
 Extremadura;Cáceres;Mohedas de Granadilla;11;10;124;34111010124;833;0;22;733
 Extremadura;Cáceres;Monroy;11;10;125;34111010125;805;13;5;654
-Extremadura;Cáceres;Montánchez;11;10;126;34111010126;0;27;2;1093
-Extremadura;Cáceres;Montehermoso;11;10;127;34111010127;0;90;42;3384
-Extremadura;Cáceres;Moraleja;11;10;128;34111010128;0;86;37;3900
+Extremadura;Cáceres;Montánchez;11;10;126;34111010126;1368;27;2;1093
+Extremadura;Cáceres;Montehermoso;11;10;127;34111010127;4610;90;42;3384
+Extremadura;Cáceres;Moraleja;11;10;128;34111010128;5507;86;37;3900
 Extremadura;Cáceres;Morcillo;11;10;129;34111010129;340;23;2;290
 Extremadura;Cáceres;Navaconcejo;11;10;130;34111010130;1722;64;21;1411
-Extremadura;Cáceres;Navalmoral de la Mata;11;10;131;34111010131;0;128;93;8008
+Extremadura;Cáceres;Navalmoral de la Mata;11;10;131;34111010131;12443;128;93;8008
 Extremadura;Cáceres;Navalvillar de Ibor;11;10;132;34111010132;348;17;5;269
 Extremadura;Cáceres;Navas del Madroño;11;10;133;34111010133;1109;36;14;956
-Extremadura;Cáceres;Navezuelas;11;10;134;34111010134;0;8;11;448
+Extremadura;Cáceres;Navezuelas;11;10;134;34111010134;564;8;11;448
 Extremadura;Cáceres;Nuñomoral;11;10;135;34111010135;1159;19;9;965
 Extremadura;Cáceres;Oliva de Plasencia;11;10;136;34111010136;275;4;2;213
-Extremadura;Cáceres;Palomero;11;10;137;34111010137;0;6;3;364
-Extremadura;Cáceres;Pasarón de la Vera;11;10;138;34111010138;0;4;7;419
+Extremadura;Cáceres;Palomero;11;10;137;34111010137;389;6;3;364
+Extremadura;Cáceres;Pasarón de la Vera;11;10;138;34111010138;508;4;7;419
 Extremadura;Cáceres;Pedroso de Acim;11;10;139;34111010139;102;2;0;90
 Extremadura;Cáceres;Peraleda de la Mata;11;10;140;34111010140;1076;23;8;880
-Extremadura;Cáceres;Peraleda de San Román;11;10;141;34111010141;0;0;2;219
-Extremadura;Cáceres;Perales del Puerto;11;10;142;34111010142;0;10;6;655
+Extremadura;Cáceres;Peraleda de San Román;11;10;141;34111010141;267;0;2;219
+Extremadura;Cáceres;Perales del Puerto;11;10;142;34111010142;801;10;6;655
 Extremadura;Cáceres;Pescueza;11;10;143;34111010143;135;5;0;111
 Extremadura;Cáceres;La Pesga;11;10;144;34111010144;863;16;4;730
 Extremadura;Cáceres;Piedras Albas;11;10;145;34111010145;124;2;6;99
 Extremadura;Cáceres;Pinofranqueado;11;10;146;34111010146;1525;27;8;1284
-Extremadura;Cáceres;Piornal;11;10;147;34111010147;0;70;9;1014
-Extremadura;Cáceres;Plasencia;11;10;148;34111010148;0;436;308;20048
-Extremadura;Cáceres;Plasenzuela;11;10;149;34111010149;0;1;3;349
+Extremadura;Cáceres;Piornal;11;10;147;34111010147;1278;70;9;1014
+Extremadura;Cáceres;Plasencia;11;10;148;34111010148;32580;436;308;20048
+Extremadura;Cáceres;Plasenzuela;11;10;149;34111010149;435;1;3;349
 Extremadura;Cáceres;Portaje;11;10;150;34111010150;343;7;4;277
-Extremadura;Cáceres;Portezuelo;11;10;151;34111010151;0;3;1;157
+Extremadura;Cáceres;Portezuelo;11;10;151;34111010151;189;3;1;157
 Extremadura;Cáceres;Pozuelo de Zarzón;11;10;152;34111010152;393;15;2;335
 Extremadura;Cáceres;Pueblonuevo de Miramontes;11;10;905;34111010905;636;35;11;505
 Extremadura;Cáceres;Puerto de Santa Cruz;11;10;153;34111010153;251;25;7;203
 Extremadura;Cáceres;Rebollar;11;10;154;34111010154;171;5;1;154
-Extremadura;Cáceres;Riolobos;11;10;155;34111010155;0;25;10;818
+Extremadura;Cáceres;Riolobos;11;10;155;34111010155;1058;25;10;818
 Extremadura;Cáceres;Robledillo de Gata;11;10;156;34111010156;93;0;4;76
-Extremadura;Cáceres;Robledillo de la Vera;11;10;157;34111010157;0;10;4;219
+Extremadura;Cáceres;Robledillo de la Vera;11;10;157;34111010157;246;10;4;219
 Extremadura;Cáceres;Robledillo de Trujillo;11;10;158;34111010158;323;2;5;267
 Extremadura;Cáceres;Robledollano;11;10;159;34111010159;310;4;6;291
 Extremadura;Cáceres;Romangordo;11;10;160;34111010160;223;5;8;183
-Extremadura;Cáceres;Rosalejo;11;10;901;34111010901;0;17;4;830
-Extremadura;Cáceres;Ruanes;11;10;161;34111010161;0;0;0;65
+Extremadura;Cáceres;Rosalejo;11;10;901;34111010901;1114;17;4;830
+Extremadura;Cáceres;Ruanes;11;10;161;34111010161;74;0;0;65
 Extremadura;Cáceres;Salorino;11;10;162;34111010162;508;17;8;433
-Extremadura;Cáceres;Salvatierra de Santiago;11;10;163;34111010163;0;5;1;249
+Extremadura;Cáceres;Salvatierra de Santiago;11;10;163;34111010163;280;5;1;249
 Extremadura;Cáceres;San Martín de Trevejo;11;10;164;34111010164;676;12;5;499
 Extremadura;Cáceres;Santa Ana;11;10;165;34111010165;282;2;0;244
-Extremadura;Cáceres;Santa Cruz de la Sierra;11;10;166;34111010166;0;0;0;259
+Extremadura;Cáceres;Santa Cruz de la Sierra;11;10;166;34111010166;293;0;0;259
 Extremadura;Cáceres;Santa Cruz de Paniagua;11;10;167;34111010167;269;2;3;241
 Extremadura;Cáceres;Santa Marta de Magasca;11;10;168;34111010168;321;0;3;241
 Extremadura;Cáceres;Santiago de Alcántara;11;10;169;34111010169;452;4;2;379
 Extremadura;Cáceres;Santiago del Campo;11;10;170;34111010170;244;9;5;179
-Extremadura;Cáceres;Santibáñez el Alto;11;10;171;34111010171;0;7;3;284
-Extremadura;Cáceres;Santibáñez el Bajo;11;10;172;34111010172;0;11;5;533
+Extremadura;Cáceres;Santibáñez el Alto;11;10;171;34111010171;347;7;3;284
+Extremadura;Cáceres;Santibáñez el Bajo;11;10;172;34111010172;655;11;5;533
 Extremadura;Cáceres;Saucedilla;11;10;173;34111010173;639;7;2;564
 Extremadura;Cáceres;Segura de Toro;11;10;174;34111010174;166;4;2;152
 Extremadura;Cáceres;Serradilla;11;10;175;34111010175;1307;48;5;1017
 Extremadura;Cáceres;Serrejón;11;10;176;34111010176;335;18;3;293
 Extremadura;Cáceres;Sierra de Fuentes;11;10;177;34111010177;1730;77;39;1326
-Extremadura;Cáceres;Talaván;11;10;178;34111010178;0;11;8;561
-Extremadura;Cáceres;Talaveruela de la Vera;11;10;179;34111010179;0;11;7;214
-Extremadura;Cáceres;Talayuela;11;10;180;34111010180;0;61;15;3012
-Extremadura;Cáceres;Tejeda de Tiétar;11;10;181;34111010181;0;10;9;582
-Extremadura;Cáceres;Tiétar;11;10;904;34111010904;0;14;3;559
+Extremadura;Cáceres;Talaván;11;10;178;34111010178;680;11;8;561
+Extremadura;Cáceres;Talaveruela de la Vera;11;10;179;34111010179;279;11;7;214
+Extremadura;Cáceres;Talayuela;11;10;180;34111010180;4300;61;15;3012
+Extremadura;Cáceres;Tejeda de Tiétar;11;10;181;34111010181;681;10;9;582
+Extremadura;Cáceres;Tiétar;11;10;904;34111010904;701;14;3;559
 Extremadura;Cáceres;Toril;11;10;182;34111010182;118;5;2;96
-Extremadura;Cáceres;Tornavacas;11;10;183;34111010183;0;34;8;769
-Extremadura;Cáceres;El Torno;11;10;184;34111010184;0;27;7;567
+Extremadura;Cáceres;Tornavacas;11;10;183;34111010183;890;34;8;769
+Extremadura;Cáceres;El Torno;11;10;184;34111010184;736;27;7;567
 Extremadura;Cáceres;Torre de Don Miguel;11;10;187;34111010187;409;12;6;331
 Extremadura;Cáceres;Torre de Santa María;11;10;188;34111010188;496;4;1;435
-Extremadura;Cáceres;Torrecilla de los Ángeles;11;10;185;34111010185;0;5;5;519
+Extremadura;Cáceres;Torrecilla de los Ángeles;11;10;185;34111010185;587;5;5;519
 Extremadura;Cáceres;Torrecillas de la Tiesa;11;10;186;34111010186;923;47;3;775
 Extremadura;Cáceres;Torrejón el Rubio;11;10;190;34111010190;491;19;3;384
 Extremadura;Cáceres;Torrejoncillo;11;10;189;34111010189;2442;62;19;1951
-Extremadura;Cáceres;Torremenga;11;10;191;34111010191;0;18;11;400
+Extremadura;Cáceres;Torremenga;11;10;191;34111010191;521;18;11;400
 Extremadura;Cáceres;Torremocha;11;10;192;34111010192;703;19;4;593
 Extremadura;Cáceres;Torreorgaz;11;10;193;34111010193;1409;37;9;1113
-Extremadura;Cáceres;Torrequemada;11;10;194;34111010194;0;12;8;469
+Extremadura;Cáceres;Torrequemada;11;10;194;34111010194;520;12;8;469
 Extremadura;Cáceres;Trujillo;11;10;195;34111010195;7289;125;59;5078
-Extremadura;Cáceres;Valdastillas;11;10;196;34111010196;0;0;6;247
+Extremadura;Cáceres;Valdastillas;11;10;196;34111010196;295;0;6;247
 Extremadura;Cáceres;Valdecañas de Tajo;11;10;197;34111010197;104;0;3;89
-Extremadura;Cáceres;Valdefuentes;11;10;198;34111010198;0;10;4;935
+Extremadura;Cáceres;Valdefuentes;11;10;198;34111010198;995;10;4;935
 Extremadura;Cáceres;Valdehúncar;11;10;199;34111010199;168;2;2;150
-Extremadura;Cáceres;Valdelacasa de Tajo;11;10;200;34111010200;0;1;1;289
-Extremadura;Cáceres;Valdemorales;11;10;201;34111010201;0;4;3;166
+Extremadura;Cáceres;Valdelacasa de Tajo;11;10;200;34111010200;342;1;1;289
+Extremadura;Cáceres;Valdemorales;11;10;201;34111010201;186;4;3;166
 Extremadura;Cáceres;Valdeobispo;11;10;202;34111010202;575;27;1;484
-Extremadura;Cáceres;Valencia de Alcántara;11;10;203;34111010203;0;52;32;3161
-Extremadura;Cáceres;Valverde de la Vera;11;10;204;34111010204;0;4;2;364
+Extremadura;Cáceres;Valencia de Alcántara;11;10;203;34111010203;4379;52;32;3161
+Extremadura;Cáceres;Valverde de la Vera;11;10;204;34111010204;431;4;2;364
 Extremadura;Cáceres;Valverde del Fresno;11;10;205;34111010205;1889;69;15;1376
 Extremadura;Cáceres;Vegaviana;11;10;902;34111010902;725;15;2;580
-Extremadura;Cáceres;Viandar de la Vera;11;10;206;34111010206;0;4;1;154
+Extremadura;Cáceres;Viandar de la Vera;11;10;206;34111010206;189;4;1;154
 Extremadura;Cáceres;Villa del Campo;11;10;207;34111010207;410;8;3;343
 Extremadura;Cáceres;Villa del Rey;11;10;208;34111010208;107;2;1;107
 Extremadura;Cáceres;Villamesías;11;10;209;34111010209;272;9;4;189
-Extremadura;Cáceres;Villamiel;11;10;210;34111010210;0;9;7;392
+Extremadura;Cáceres;Villamiel;11;10;210;34111010210;484;9;7;392
 Extremadura;Cáceres;Villanueva de la Sierra;11;10;211;34111010211;458;17;4;402
 Extremadura;Cáceres;Villanueva de la Vera;11;10;212;34111010212;1674;35;11;1227
 Extremadura;Cáceres;Villar de Plasencia;11;10;214;34111010214;225;4;1;200
-Extremadura;Cáceres;Villar del Pedroso;11;10;213;34111010213;0;11;1;415
+Extremadura;Cáceres;Villar del Pedroso;11;10;213;34111010213;492;11;1;415
 Extremadura;Cáceres;Villasbuenas de Gata;11;10;215;34111010215;450;1;1;371
 Extremadura;Cáceres;Zarza de Granadilla;11;10;216;34111010216;1508;42;13;1212
-Extremadura;Cáceres;Zarza de Montánchez;11;10;217;34111010217;0;4;3;429
-Extremadura;Cáceres;Zarza la Mayor;11;10;218;34111010218;0;27;1;788
+Extremadura;Cáceres;Zarza de Montánchez;11;10;217;34111010217;485;4;3;429
+Extremadura;Cáceres;Zarza la Mayor;11;10;218;34111010218;1023;27;1;788
 Extremadura;Cáceres;Zorita;11;10;219;34111010219;1089;38;11;810
 Galicia;A Coruña;Abegondo;12;15;001;34121515001;4797;52;48;3441
 Galicia;A Coruña;Ames;12;15;002;34121515002;24975;211;240;14233
-Galicia;A Coruña;Aranga;12;15;003;34121515003;0;10;15;1340
+Galicia;A Coruña;Aranga;12;15;003;34121515003;1628;10;15;1340
 Galicia;A Coruña;Ares;12;15;004;34121515004;5241;67;77;3416
 Galicia;A Coruña;Arteixo;12;15;005;34121515005;25993;216;225;14515
 Galicia;A Coruña;Arzúa;12;15;006;34121515006;5010;65;37;3549
 Galicia;A Coruña;A Baña;12;15;007;34121515007;3007;13;15;2492
 Galicia;A Coruña;Bergondo;12;15;008;34121515008;5916;69;73;3998
-Galicia;A Coruña;Betanzos;12;15;009;34121515009;0;125;139;7071
+Galicia;A Coruña;Betanzos;12;15;009;34121515009;10591;125;139;7071
 Galicia;A Coruña;Boimorto;12;15;010;34121515010;1687;10;14;1325
 Galicia;A Coruña;Boiro;12;15;011;34121515011;15739;223;118;10016
 Galicia;A Coruña;Boqueixón;12;15;012;34121515012;3554;42;44;2652
@@ -6945,58 +6945,58 @@ Galicia;A Coruña;Brión;12;15;013;34121515013;6540;84;73;4077
 Galicia;A Coruña;Cabana de Bergantiños;12;15;014;34121515014;3694;19;18;2803
 Galicia;A Coruña;Cabanas;12;15;015;34121515015;2908;34;36;1906
 Galicia;A Coruña;Camariñas;12;15;016;34121515016;4458;62;31;3232
-Galicia;A Coruña;Cambre;12;15;017;34121515017;0;138;210;11728
-Galicia;A Coruña;A Capela;12;15;018;34121515018;0;10;11;814
+Galicia;A Coruña;Cambre;12;15;017;34121515017;20159;138;210;11728
+Galicia;A Coruña;A Capela;12;15;018;34121515018;1052;10;11;814
 Galicia;A Coruña;Carballo;12;15;019;34121515019;25960;140;212;15164
 Galicia;A Coruña;Cariño;12;15;901;34121515901;3225;45;30;2013
-Galicia;A Coruña;Carnota;12;15;020;34121515020;0;24;22;2361
-Galicia;A Coruña;Carral;12;15;021;34121515021;0;50;35;3988
-Galicia;A Coruña;Cedeira;12;15;022;34121515022;0;59;55;3583
+Galicia;A Coruña;Carnota;12;15;020;34121515020;3425;24;22;2361
+Galicia;A Coruña;Carral;12;15;021;34121515021;5434;50;35;3988
+Galicia;A Coruña;Cedeira;12;15;022;34121515022;5454;59;55;3583
 Galicia;A Coruña;Cee;12;15;023;34121515023;6361;58;44;4648
 Galicia;A Coruña;Cerceda;12;15;024;34121515024;4254;34;18;3448
-Galicia;A Coruña;Cerdido;12;15;025;34121515025;0;13;15;684
+Galicia;A Coruña;Cerdido;12;15;025;34121515025;913;13;15;684
 Galicia;A Coruña;Coirós;12;15;027;34121515027;1609;18;17;1184
-Galicia;A Coruña;Corcubión;12;15;028;34121515028;0;12;15;1088
-Galicia;A Coruña;Coristanco;12;15;029;34121515029;0;29;36;3393
+Galicia;A Coruña;Corcubión;12;15;028;34121515028;1456;12;15;1088
+Galicia;A Coruña;Coristanco;12;15;029;34121515029;5098;29;36;3393
 Galicia;A Coruña;A Coruña;12;15;030;34121515030;197673;1095;1644;116518
 Galicia;A Coruña;Culleredo;12;15;031;34121515031;24286;209;264;14186
 Galicia;A Coruña;Curtis;12;15;032;34121515032;3402;75;36;2611
 Galicia;A Coruña;Dodro;12;15;033;34121515033;2317;25;10;1853
 Galicia;A Coruña;Dumbría;12;15;034;34121515034;2557;16;13;1873
-Galicia;A Coruña;Fene;12;15;035;34121515035;0;86;153;6121
+Galicia;A Coruña;Fene;12;15;035;34121515035;10925;86;153;6121
 Galicia;A Coruña;Ferrol;12;15;036;34121515036;53926;315;493;30511
-Galicia;A Coruña;Fisterra;12;15;037;34121515037;0;29;23;2882
+Galicia;A Coruña;Fisterra;12;15;037;34121515037;4058;29;23;2882
 Galicia;A Coruña;Frades;12;15;038;34121515038;2012;13;13;1722
 Galicia;A Coruña;Irixoa;12;15;039;34121515039;1189;23;11;917
 Galicia;A Coruña;A Laracha;12;15;041;34121515041;9643;104;92;6619
 Galicia;A Coruña;Laxe;12;15;040;34121515040;2568;48;19;2016
 Galicia;A Coruña;Lousame;12;15;042;34121515042;2778;56;14;1887
-Galicia;A Coruña;Malpica de Bergantiños;12;15;043;34121515043;0;81;40;3447
-Galicia;A Coruña;Mañón;12;15;044;34121515044;0;18;11;894
+Galicia;A Coruña;Malpica de Bergantiños;12;15;043;34121515043;4808;81;40;3447
+Galicia;A Coruña;Mañón;12;15;044;34121515044;1121;18;11;894
 Galicia;A Coruña;Mazaricos;12;15;045;34121515045;3423;12;12;2668
-Galicia;A Coruña;Melide;12;15;046;34121515046;0;89;42;4697
+Galicia;A Coruña;Melide;12;15;046;34121515046;6174;89;42;4697
 Galicia;A Coruña;Mesía;12;15;047;34121515047;2147;15;8;1682
-Galicia;A Coruña;Miño;12;15;048;34121515048;0;64;61;3673
+Galicia;A Coruña;Miño;12;15;048;34121515048;5478;64;61;3673
 Galicia;A Coruña;Moeche;12;15;049;34121515049;1080;4;4;856
 Galicia;A Coruña;Monfero;12;15;050;34121515050;1640;14;12;1193
 Galicia;A Coruña;Mugardos;12;15;051;34121515051;4541;49;51;2866
 Galicia;A Coruña;Muros;12;15;053;34121515053;7247;78;91;4708
-Galicia;A Coruña;Muxía;12;15;052;34121515052;0;40;22;3169
+Galicia;A Coruña;Muxía;12;15;052;34121515052;3925;40;22;3169
 Galicia;A Coruña;Narón;12;15;054;34121515054;31869;186;280;16283
 Galicia;A Coruña;Neda;12;15;055;34121515055;4303;36;40;2698
 Galicia;A Coruña;Negreira;12;15;056;34121515056;5663;52;49;4196
-Galicia;A Coruña;Noia;12;15;057;34121515057;0;120;88;7925
-Galicia;A Coruña;Oleiros;12;15;058;34121515058;0;126;322;17211
-Galicia;A Coruña;Ordes;12;15;059;34121515059;0;128;114;7512
+Galicia;A Coruña;Noia;12;15;057;34121515057;11874;120;88;7925
+Galicia;A Coruña;Oleiros;12;15;058;34121515058;29898;126;322;17211
+Galicia;A Coruña;Ordes;12;15;059;34121515059;10108;128;114;7512
 Galicia;A Coruña;Oroso;12;15;060;34121515060;6020;83;70;4590
 Galicia;A Coruña;Ortigueira;12;15;061;34121515061;4865;60;24;3741
 Galicia;A Coruña;Outes;12;15;062;34121515062;5402;57;31;3797
 Galicia;A Coruña;Oza-Cesuras;12;15;902;34121515902;4585;58;38;3427
 Galicia;A Coruña;Paderne;12;15;064;34121515064;2123;18;19;1642
-Galicia;A Coruña;Padrón;12;15;065;34121515065;0;128;63;5005
+Galicia;A Coruña;Padrón;12;15;065;34121515065;7023;128;63;5005
 Galicia;A Coruña;O Pino;12;15;066;34121515066;3903;46;39;2965
 Galicia;A Coruña;A Pobra do Caramiñal;12;15;067;34121515067;7833;114;69;5380
-Galicia;A Coruña;Ponteceso;12;15;068;34121515068;0;48;19;3590
+Galicia;A Coruña;Ponteceso;12;15;068;34121515068;4684;48;19;3590
 Galicia;A Coruña;Pontedeume;12;15;069;34121515069;6362;59;47;4316
 Galicia;A Coruña;As Pontes de García Rodríguez;12;15;070;34121515070;8365;149;98;5546
 Galicia;A Coruña;Porto do Son;12;15;071;34121515071;7779;68;58;5510
@@ -7007,20 +7007,20 @@ Galicia;A Coruña;Sada;12;15;075;34121515075;13528;123;134;8342
 Galicia;A Coruña;San Sadurniño;12;15;076;34121515076;2431;18;28;1693
 Galicia;A Coruña;Santa Comba;12;15;077;34121515077;7867;53;38;6064
 Galicia;A Coruña;Santiago de Compostela;12;15;078;34121515078;79307;527;740;49052
-Galicia;A Coruña;Santiso;12;15;079;34121515079;0;6;7;1099
+Galicia;A Coruña;Santiso;12;15;079;34121515079;1351;6;7;1099
 Galicia;A Coruña;Sobrado;12;15;080;34121515080;1598;14;18;1363
 Galicia;A Coruña;As Somozas;12;15;081;34121515081;934;4;9;775
 Galicia;A Coruña;Teo;12;15;082;34121515082;15730;159;170;9623
 Galicia;A Coruña;Toques;12;15;083;34121515083;1001;2;8;882
 Galicia;A Coruña;Tordoia;12;15;084;34121515084;2879;20;17;2448
 Galicia;A Coruña;Touro;12;15;085;34121515085;3018;33;17;2333
-Galicia;A Coruña;Trazo;12;15;086;34121515086;0;20;15;2242
+Galicia;A Coruña;Trazo;12;15;086;34121515086;2650;20;15;2242
 Galicia;A Coruña;Val do Dubra;12;15;088;34121515088;3274;20;13;2468
 Galicia;A Coruña;Valdoviño;12;15;087;34121515087;6012;41;42;3656
-Galicia;A Coruña;Vedra;12;15;089;34121515089;0;42;43;2977
+Galicia;A Coruña;Vedra;12;15;089;34121515089;4287;42;43;2977
 Galicia;A Coruña;Vilarmaior;12;15;091;34121515091;1096;13;10;859
-Galicia;A Coruña;Vilasantar;12;15;090;34121515090;0;7;15;889
-Galicia;A Coruña;Vimianzo;12;15;092;34121515092;0;47;29;4792
+Galicia;A Coruña;Vilasantar;12;15;090;34121515090;1110;7;15;889
+Galicia;A Coruña;Vimianzo;12;15;092;34121515092;5977;47;29;4792
 Galicia;A Coruña;Zas;12;15;093;34121515093;3855;24;16;2939
 Galicia;Lugo;Abadín;12;27;001;34122727001;2027;15;26;1490
 Galicia;Lugo;Alfoz;12;27;002;34122727002;1434;21;10;1174
@@ -7242,73 +7242,73 @@ Galicia;Pontevedra;Vila de Cruces;12;36;059;34123636059;4441;36;18;3421
 Galicia;Pontevedra;Vilaboa;12;36;058;34123636058;5029;50;39;3314
 Galicia;Pontevedra;Vilagarcía de Arousa;12;36;060;34123636060;30606;314;227;17890
 Galicia;Pontevedra;Vilanova de Arousa;12;36;061;34123636061;8592;135;76;6092
-Islas Baleares;Islas Baleares;Alaior;04;07;002;34040707002;0;71;73;4451
+Islas Baleares;Islas Baleares;Alaior;04;07;002;34040707002;7272;71;73;4451
 Islas Baleares;Islas Baleares;Alaró;04;07;001;34040707001;3903;57;53;2820
 Islas Baleares;Islas Baleares;Alcúdia;04;07;003;34040707003;13349;115;128;6854
-Islas Baleares;Islas Baleares;Algaida;04;07;004;34040707004;0;70;37;2999
+Islas Baleares;Islas Baleares;Algaida;04;07;004;34040707004;4482;70;37;2999
 Islas Baleares;Islas Baleares;Andratx;04;07;005;34040707005;8280;73;68;4553
-Islas Baleares;Islas Baleares;Ariany;04;07;901;34040707901;0;11;12;491
-Islas Baleares;Islas Baleares;Artà;04;07;006;34040707006;0;69;76;3578
+Islas Baleares;Islas Baleares;Ariany;04;07;901;34040707901;647;11;12;491
+Islas Baleares;Islas Baleares;Artà;04;07;006;34040707006;5736;69;76;3578
 Islas Baleares;Islas Baleares;Banyalbufar;04;07;007;34040707007;454;8;6;363
-Islas Baleares;Islas Baleares;Binissalem;04;07;008;34040707008;0;46;50;4547
-Islas Baleares;Islas Baleares;Búger;04;07;009;34040707009;0;15;11;624
-Islas Baleares;Islas Baleares;Bunyola;04;07;010;34040707010;0;50;49;3759
+Islas Baleares;Islas Baleares;Binissalem;04;07;008;34040707008;6621;46;50;4547
+Islas Baleares;Islas Baleares;Búger;04;07;009;34040707009;808;15;11;624
+Islas Baleares;Islas Baleares;Bunyola;04;07;010;34040707010;5458;50;49;3759
 Islas Baleares;Islas Baleares;Calvià;04;07;011;34040707011;31640;149;224;17504
-Islas Baleares;Islas Baleares;Campanet;04;07;012;34040707012;0;21;12;1507
-Islas Baleares;Islas Baleares;Campos;04;07;013;34040707013;0;75;69;5314
-Islas Baleares;Islas Baleares;Capdepera;04;07;014;34040707014;0;101;62;4062
+Islas Baleares;Islas Baleares;Campanet;04;07;012;34040707012;1963;21;12;1507
+Islas Baleares;Islas Baleares;Campos;04;07;013;34040707013;7928;75;69;5314
+Islas Baleares;Islas Baleares;Capdepera;04;07;014;34040707014;8186;101;62;4062
 Islas Baleares;Islas Baleares;Es Castell;04;07;064;34040707064;5851;23;45;3449
-Islas Baleares;Islas Baleares;Ciutadella de Menorca;04;07;015;34040707015;0;195;216;11696
+Islas Baleares;Islas Baleares;Ciutadella de Menorca;04;07;015;34040707015;23639;195;216;11696
 Islas Baleares;Islas Baleares;Consell;04;07;016;34040707016;3173;45;50;2149
 Islas Baleares;Islas Baleares;Costitx;04;07;017;34040707017;1045;27;33;778
-Islas Baleares;Islas Baleares;Deià;04;07;018;34040707018;0;3;4;335
+Islas Baleares;Islas Baleares;Deià;04;07;018;34040707018;459;3;4;335
 Islas Baleares;Islas Baleares;Eivissa;04;07;026;34040707026;32910;225;267;15887
 Islas Baleares;Islas Baleares;Escorca;04;07;019;34040707019;164;4;1;117
-Islas Baleares;Islas Baleares;Esporles;04;07;020;34040707020;0;37;35;2658
-Islas Baleares;Islas Baleares;Estellencs;04;07;021;34040707021;0;4;4;214
-Islas Baleares;Islas Baleares;Felanitx;04;07;022;34040707022;0;98;110;7534
-Islas Baleares;Islas Baleares;Ferreries;04;07;023;34040707023;0;38;59;2666
+Islas Baleares;Islas Baleares;Esporles;04;07;020;34040707020;3880;37;35;2658
+Islas Baleares;Islas Baleares;Estellencs;04;07;021;34040707021;269;4;4;214
+Islas Baleares;Islas Baleares;Felanitx;04;07;022;34040707022;11979;98;110;7534
+Islas Baleares;Islas Baleares;Ferreries;04;07;023;34040707023;3935;38;59;2666
 Islas Baleares;Islas Baleares;Formentera;04;07;024;34040707024;7303;46;83;4014
 Islas Baleares;Islas Baleares;Fornalutx;04;07;025;34040707025;502;1;3;448
 Islas Baleares;Islas Baleares;Inca;04;07;027;34040707027;22826;137;131;13709
-Islas Baleares;Islas Baleares;Lloret de Vistalegre;04;07;028;34040707028;0;15;13;778
-Islas Baleares;Islas Baleares;Lloseta;04;07;029;34040707029;0;35;42;3235
-Islas Baleares;Islas Baleares;Llubí;04;07;030;34040707030;0;18;16;1337
-Islas Baleares;Islas Baleares;Llucmajor;04;07;031;34040707031;0;145;213;15038
+Islas Baleares;Islas Baleares;Lloret de Vistalegre;04;07;028;34040707028;1036;15;13;778
+Islas Baleares;Islas Baleares;Lloseta;04;07;029;34040707029;4596;35;42;3235
+Islas Baleares;Islas Baleares;Llubí;04;07;030;34040707030;1761;18;16;1337
+Islas Baleares;Islas Baleares;Llucmajor;04;07;031;34040707031;26747;145;213;15038
 Islas Baleares;Islas Baleares;Manacor;04;07;033;34040707033;29759;163;173;16468
-Islas Baleares;Islas Baleares;Mancor de la Vall;04;07;034;34040707034;0;12;20;1036
+Islas Baleares;Islas Baleares;Mancor de la Vall;04;07;034;34040707034;1214;12;20;1036
 Islas Baleares;Islas Baleares;Maó-Mahón;04;07;032;34040707032;21718;162;203;11859
-Islas Baleares;Islas Baleares;Maria de la Salut;04;07;035;34040707035;0;28;23;1333
-Islas Baleares;Islas Baleares;Marratxí;04;07;036;34040707036;0;203;281;19251
+Islas Baleares;Islas Baleares;Maria de la Salut;04;07;035;34040707035;1684;28;23;1333
+Islas Baleares;Islas Baleares;Marratxí;04;07;036;34040707036;29994;203;281;19251
 Islas Baleares;Islas Baleares;Es Mercadal;04;07;037;34040707037;4105;36;34;2125
 Islas Baleares;Islas Baleares;Es Migjorn Gran;04;07;902;34040707902;1221;27;25;936
-Islas Baleares;Islas Baleares;Montuïri;04;07;038;34040707038;0;22;29;1639
-Islas Baleares;Islas Baleares;Muro;04;07;039;34040707039;0;41;26;3806
-Islas Baleares;Islas Baleares;Palma;04;07;040;34040707040;0;1786;2292;160947
+Islas Baleares;Islas Baleares;Montuïri;04;07;038;34040707038;2160;22;29;1639
+Islas Baleares;Islas Baleares;Muro;04;07;039;34040707039;5207;41;26;3806
+Islas Baleares;Islas Baleares;Palma;04;07;040;34040707040;295563;1786;2292;160947
 Islas Baleares;Islas Baleares;Petra;04;07;041;34040707041;2227;29;29;1786
-Islas Baleares;Islas Baleares;Sa Pobla;04;07;044;34040707044;0;66;45;6176
-Islas Baleares;Islas Baleares;Pollença;04;07;042;34040707042;0;56;111;6838
+Islas Baleares;Islas Baleares;Sa Pobla;04;07;044;34040707044;9065;66;45;6176
+Islas Baleares;Islas Baleares;Pollença;04;07;042;34040707042;11173;56;111;6838
 Islas Baleares;Islas Baleares;Porreres;04;07;043;34040707043;3698;26;29;2730
-Islas Baleares;Islas Baleares;Puigpunyent;04;07;045;34040707045;0;15;15;1120
-Islas Baleares;Islas Baleares;Ses Salines;04;07;059;34040707059;0;34;23;2310
+Islas Baleares;Islas Baleares;Puigpunyent;04;07;045;34040707045;1500;15;15;1120
+Islas Baleares;Islas Baleares;Ses Salines;04;07;059;34040707059;3250;34;23;2310
 Islas Baleares;Islas Baleares;Sant Antoni de Portmany;04;07;046;34040707046;17743;109;144;8264
 Islas Baleares;Islas Baleares;Sant Joan;04;07;049;34040707049;1482;11;11;1150
-Islas Baleares;Islas Baleares;Sant Joan de Labritja;04;07;050;34040707050;0;24;32;2123
-Islas Baleares;Islas Baleares;Sant Josep de sa Talaia;04;07;048;34040707048;0;106;163;8628
+Islas Baleares;Islas Baleares;Sant Joan de Labritja;04;07;050;34040707050;3745;24;32;2123
+Islas Baleares;Islas Baleares;Sant Josep de sa Talaia;04;07;048;34040707048;19738;106;163;8628
 Islas Baleares;Islas Baleares;Sant Llorenç des Cardassar;04;07;051;34040707051;6054;35;66;3573
-Islas Baleares;Islas Baleares;Sant Lluís;04;07;052;34040707052;0;52;65;2799
-Islas Baleares;Islas Baleares;Santa Eugènia;04;07;053;34040707053;0;22;27;1010
-Islas Baleares;Islas Baleares;Santa Eulària des Riu;04;07;054;34040707054;0;172;175;11010
-Islas Baleares;Islas Baleares;Santa Margalida;04;07;055;34040707055;0;102;74;5767
-Islas Baleares;Islas Baleares;Santa María del Camí;04;07;056;34040707056;0;31;58;3809
-Islas Baleares;Islas Baleares;Santanyí;04;07;057;34040707057;0;74;67;4960
-Islas Baleares;Islas Baleares;Selva;04;07;058;34040707058;0;33;35;2335
-Islas Baleares;Islas Baleares;Sencelles;04;07;047;34040707047;0;30;20;1883
+Islas Baleares;Islas Baleares;Sant Lluís;04;07;052;34040707052;5343;52;65;2799
+Islas Baleares;Islas Baleares;Santa Eugènia;04;07;053;34040707053;1342;22;27;1010
+Islas Baleares;Islas Baleares;Santa Eulària des Riu;04;07;054;34040707054;24955;172;175;11010
+Islas Baleares;Islas Baleares;Santa Margalida;04;07;055;34040707055;8794;102;74;5767
+Islas Baleares;Islas Baleares;Santa María del Camí;04;07;056;34040707056;5537;31;58;3809
+Islas Baleares;Islas Baleares;Santanyí;04;07;057;34040707057;7980;74;67;4960
+Islas Baleares;Islas Baleares;Selva;04;07;058;34040707058;3064;33;35;2335
+Islas Baleares;Islas Baleares;Sencelles;04;07;047;34040707047;2762;30;20;1883
 Islas Baleares;Islas Baleares;Sineu;04;07;060;34040707060;3017;32;36;2210
 Islas Baleares;Islas Baleares;Sóller;04;07;061;34040707061;9703;84;87;6231
-Islas Baleares;Islas Baleares;Son Servera;04;07;062;34040707062;0;67;103;4138
+Islas Baleares;Islas Baleares;Son Servera;04;07;062;34040707062;8262;67;103;4138
 Islas Baleares;Islas Baleares;Valldemossa;04;07;063;34040707063;1481;12;23;1098
-Islas Baleares;Islas Baleares;Vilafranca de Bonany;04;07;065;34040707065;0;17;19;1948
+Islas Baleares;Islas Baleares;Vilafranca de Bonany;04;07;065;34040707065;2540;17;19;1948
 La Rioja;La Rioja;Ábalos;17;26;001;34172626001;187;7;10;158
 La Rioja;La Rioja;Agoncillo;17;26;002;34172626002;936;19;9;725
 La Rioja;La Rioja;Aguilar del Río Alhama;17;26;003;34172626003;348;20;1;300
@@ -7457,7 +7457,7 @@ La Rioja;La Rioja;Torre en Cameros;17;26;153;34172626153;9;1;0;9
 La Rioja;La Rioja;Torrecilla en Cameros;17;26;151;34172626151;419;4;2;385
 La Rioja;La Rioja;Torrecilla sobre Alesanco;17;26;152;34172626152;32;0;0;30
 La Rioja;La Rioja;Torremontalbo;17;26;154;34172626154;8;0;2;8
-La Rioja;La Rioja;Treviana;17;26;155;34172626155;135;0;0;0
+La Rioja;La Rioja;Treviana;17;26;155;34172626155;0;0;0;0
 La Rioja;La Rioja;Tricio;17;26;157;34172626157;290;5;4;255
 La Rioja;La Rioja;Tudelilla;17;26;158;34172626158;261;9;6;215
 La Rioja;La Rioja;Uruñuela;17;26;160;34172626160;734;11;11;580
@@ -7807,7 +7807,7 @@ País Vasco;Álava;Zalduondo;16;01;061;34160101061;171;3;6;148
 País Vasco;Álava;Zambrana;16;01;062;34160101062;344;3;3;242
 País Vasco;Álava;Zigoitia;16;01;018;34160101018;1478;7;18;886
 País Vasco;Álava;Zuia;16;01;063;34160101063;1981;9;33;1312
-País Vasco;Gipuzkoa;Abaltzisketa;16;20;001;34162020001;0;6;14;152
+País Vasco;Gipuzkoa;Abaltzisketa;16;20;001;34162020001;255;6;14;152
 País Vasco;Gipuzkoa;Aduna;16;20;002;34162020002;370;1;11;295
 País Vasco;Gipuzkoa;Aia;16;20;016;34162020016;1573;9;10;1013
 País Vasco;Gipuzkoa;Aizarnazabal;16;20;003;34162020003;565;5;17;384
@@ -7817,10 +7817,10 @@ País Vasco;Gipuzkoa;Alkiza;16;20;006;34162020006;260;8;16;155
 País Vasco;Gipuzkoa;Altzaga;16;20;906;34162020906;127;25;4;94
 País Vasco;Gipuzkoa;Altzo;16;20;007;34162020007;350;23;14;230
 País Vasco;Gipuzkoa;Amezketa;16;20;008;34162020008;737;5;17;525
-País Vasco;Gipuzkoa;Andoain;16;20;009;34162020009;0;88;120;6554
+País Vasco;Gipuzkoa;Andoain;16;20;009;34162020009;11264;88;120;6554
 País Vasco;Gipuzkoa;Anoeta;16;20;010;34162020010;1552;13;35;991
 País Vasco;Gipuzkoa;Antzuola;16;20;011;34162020011;1599;28;26;1066
-País Vasco;Gipuzkoa;Arama;16;20;012;34162020012;0;0;2;91
+País Vasco;Gipuzkoa;Arama;16;20;012;34162020012;141;0;2;91
 País Vasco;Gipuzkoa;Aretxabaleta;16;20;013;34162020013;5541;37;40;3571
 País Vasco;Gipuzkoa;Arrasate/Mondragón;16;20;055;34162020055;16950;131;132;10194
 País Vasco;Gipuzkoa;Asteasu;16;20;014;34162020014;1192;8;7;668
@@ -7828,7 +7828,7 @@ País Vasco;Gipuzkoa;Astigarraga;16;20;903;34162020903;5662;52;54;3345
 País Vasco;Gipuzkoa;Ataun;16;20;015;34162020015;1250;19;18;864
 País Vasco;Gipuzkoa;Azkoitia;16;20;017;34162020017;8492;54;92;5307
 País Vasco;Gipuzkoa;Azpeitia;16;20;018;34162020018;11389;144;108;6894
-País Vasco;Gipuzkoa;Baliarrain;16;20;904;34162020904;0;0;0;0
+País Vasco;Gipuzkoa;Baliarrain;16;20;904;34162020904;100;0;0;0
 País Vasco;Gipuzkoa;Beasain;16;20;019;34162020019;9998;85;115;5574
 País Vasco;Gipuzkoa;Beizama;16;20;020;34162020020;111;4;1;79
 País Vasco;Gipuzkoa;Belauntza;16;20;021;34162020021;205;2;11;126
@@ -7839,18 +7839,18 @@ País Vasco;Gipuzkoa;Bidania-Goiatz;16;20;024;34162020024;419;12;19;281
 País Vasco;Gipuzkoa;Deba;16;20;029;34162020029;4341;15;64;2990
 País Vasco;Gipuzkoa;Donostia/San Sebastián;16;20;069;34162020069;147318;714;1615;88212
 País Vasco;Gipuzkoa;Eibar;16;20;030;34162020030;20584;134;209;12421
-País Vasco;Gipuzkoa;Elduain;16;20;031;34162020031;0;7;13;94
+País Vasco;Gipuzkoa;Elduain;16;20;031;34162020031;182;7;13;94
 País Vasco;Gipuzkoa;Elgeta;16;20;033;34162020033;853;12;12;627
 País Vasco;Gipuzkoa;Elgoibar;16;20;032;34162020032;8541;54;64;5344
 País Vasco;Gipuzkoa;Errenteria;16;20;067;34162020067;30507;179;289;16533
 País Vasco;Gipuzkoa;Errezil;16;20;066;34162020066;448;21;4;322
-País Vasco;Gipuzkoa;Eskoriatza;16;20;034;34162020034;0;21;32;2092
+País Vasco;Gipuzkoa;Eskoriatza;16;20;034;34162020034;3231;21;32;2092
 País Vasco;Gipuzkoa;Ezkio-Itsaso;16;20;035;34162020035;477;3;16;348
 País Vasco;Gipuzkoa;Gabiria;16;20;038;34162020038;405;1;8;269
 País Vasco;Gipuzkoa;Gaintza;16;20;037;34162020037;101;1;1;77
 País Vasco;Gipuzkoa;Gaztelu;16;20;907;34162020907;125;13;18;86
 País Vasco;Gipuzkoa;Getaria;16;20;039;34162020039;2180;20;27;1688
-País Vasco;Gipuzkoa;Hernani;16;20;040;34162020040;0;153;218;9132
+País Vasco;Gipuzkoa;Hernani;16;20;040;34162020040;15816;153;218;9132
 País Vasco;Gipuzkoa;Hernialde;16;20;041;34162020041;261;7;9;133
 País Vasco;Gipuzkoa;Hondarribia;16;20;036;34162020036;13502;128;169;8378
 País Vasco;Gipuzkoa;Ibarra;16;20;042;34162020042;3129;20;37;1734
@@ -7862,13 +7862,13 @@ País Vasco;Gipuzkoa;Itsasondo;16;20;047;34162020047;452;3;7;280
 País Vasco;Gipuzkoa;Larraul;16;20;048;34162020048;190;8;21;105
 País Vasco;Gipuzkoa;Lasarte-Oria;16;20;902;34162020902;14686;102;128;8424
 País Vasco;Gipuzkoa;Lazkao;16;20;049;34162020049;4317;27;41;2763
-País Vasco;Gipuzkoa;Leaburu;16;20;050;34162020050;0;7;6;180
+País Vasco;Gipuzkoa;Leaburu;16;20;050;34162020050;284;7;6;180
 País Vasco;Gipuzkoa;Legazpi;16;20;051;34162020051;6574;66;74;4204
 País Vasco;Gipuzkoa;Legorreta;16;20;052;34162020052;1043;5;24;726
 País Vasco;Gipuzkoa;Leintz-Gatzaga;16;20;068;34162020068;165;7;10;115
 País Vasco;Gipuzkoa;Lezo;16;20;053;34162020053;4813;24;70;2850
-País Vasco;Gipuzkoa;Lizartza;16;20;054;34162020054;0;14;29;290
-País Vasco;Gipuzkoa;Mendaro;16;20;901;34162020901;0;18;22;938
+País Vasco;Gipuzkoa;Lizartza;16;20;054;34162020054;474;14;29;290
+País Vasco;Gipuzkoa;Mendaro;16;20;901;34162020901;1432;18;22;938
 País Vasco;Gipuzkoa;Mutiloa;16;20;057;34162020057;206;0;7;134
 País Vasco;Gipuzkoa;Mutriku;16;20;056;34162020056;4116;52;48;2617
 País Vasco;Gipuzkoa;Oiartzun;16;20;063;34162020063;8220;59;92;4957
@@ -7885,7 +7885,7 @@ País Vasco;Gipuzkoa;Soraluze-Placencia de las Armas;16;20;065;34162020065;2774;
 País Vasco;Gipuzkoa;Tolosa;16;20;071;34162020071;15677;105;170;9574
 País Vasco;Gipuzkoa;Urnieta;16;20;072;34162020072;4908;52;56;2634
 País Vasco;Gipuzkoa;Urretxu;16;20;077;34162020077;5981;28;66;3258
-País Vasco;Gipuzkoa;Usurbil;16;20;073;34162020073;0;44;93;2957
+País Vasco;Gipuzkoa;Usurbil;16;20;073;34162020073;4886;44;93;2957
 País Vasco;Gipuzkoa;Villabona;16;20;075;34162020075;4323;36;50;2511
 País Vasco;Gipuzkoa;Zaldibia;16;20;078;34162020078;1191;28;38;797
 País Vasco;Gipuzkoa;Zarautz;16;20;079;34162020079;18304;125;258;11650
@@ -8088,7 +8088,7 @@ Asturias;Asturias;Yernes y Tameza;03;33;078;34033333078;131;0;0;122
 Región de Murcia;Murcia;Abanilla;14;30;001;34143030001;4890;51;38;3789
 Región de Murcia;Murcia;Abarán;14;30;002;34143030002;9620;79;45;6642
 Región de Murcia;Murcia;Águilas;14;30;003;34143030003;26568;210;149;16915
-Región de Murcia;Murcia;Albudeite;14;30;004;34143030004;1124;0;0;0
+Región de Murcia;Murcia;Albudeite;14;30;004;34143030004;1124;13;1;423
 Región de Murcia;Murcia;Alcantarilla;14;30;005;34143030005;30874;204;203;19000
 Región de Murcia;Murcia;Los Alcázares;14;30;902;34143030902;9649;77;42;5796
 Región de Murcia;Murcia;Aledo;14;30;006;34143030006;924;2;2;844
@@ -8101,7 +8101,7 @@ Región de Murcia;Murcia;Bullas;14;30;012;34143030012;9149;122;61;6482
 Región de Murcia;Murcia;Calasparra;14;30;013;34143030013;7431;58;43;5423
 Región de Murcia;Murcia;Campos del Río;14;30;014;34143030014;1636;32;7;1261
 Región de Murcia;Murcia;Caravaca de la Cruz;14;30;015;34143030015;19559;116;139;13365
-Región de Murcia;Murcia;Cartagena;14;30;016;34143030016;156297;789;686;93685
+Región de Murcia;Murcia;Cartagena;14;30;016;34143030016;0;789;686;93685
 Región de Murcia;Murcia;Cehegín;14;30;017;34143030017;11333;98;69;7917
 Región de Murcia;Murcia;Ceutí;14;30;018;34143030018;8956;162;59;6215
 Región de Murcia;Murcia;Cieza;14;30;019;34143030019;25998;156;154;15661
